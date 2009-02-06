@@ -1,0 +1,35 @@
+--- 
+title: "wurbe #9 - plan"
+extension: html
+directory: 2008/05/06
+author: vio
+filter: 
+- erb
+- textile
+categories: 
+- blog
+blog_post: true
+filename: wurbe-9-plan
+layout: post
+created_at: 2008-05-06 21:22:00 +02:00
+---
+Dupa sarbatori si vacante ne vedem sa discutam ce-am facut in restul timpului ;) Ca sa mascam berile de pe masa puteti sa va aduceti laptop-urile ... si avem o scuza sa discutam ceva on topic . 
+
+h3. Data si locatie
+
+Luni, 12 mai 2008, incepand cu ora 18.00, "Pe Baricade":http://pe.barica.de/ ( "harta":http://metropotam.ro/Cluburi/loc0817741456-La-Baricade/ )
+
+h3. Organizare
+
+Daca vrei sa vii, adauga un comentariu ca sa stim cate locuri sa rezervam.
+
+h3. Idei de subiecte de discutie
+
+* bere/cico/cafea
+* online
+* bere/cico/cafea
+* dev ( rubi, fyton, etc .. )
+* papica
+* cum mai e vremea in Barcelona
+* bere/cico/cafea
+* subiecte pentru wurbe #10 ( uau , editie jubiliara?! )

@@ -1,0 +1,45 @@
+--- 
+title: "wurbe #3 - tonite"
+extension: html
+directory: 2007/11/05
+author: evilchelu
+filter: 
+- erb
+- textile
+categories: 
+- blog
+blog_post: true
+filename: wurbe-3-tonite
+layout: post
+created_at: 2007-11-05 13:26:00 +01:00
+---
+h3. Ora si Locatie
+
+Multumiri lui Aurelian care a gasit numele, si lui Vio care a reusit sa gaseasca numarul de telefon (he's got mad googling skillz!)
+
+"La baricade":http://metropotam.ro/Cluburi/loc0817741456-La-Baricade/, ora 17:30
+
+* "review metropotam":http://metropotam.ro/Unde-iesim/2007/07/art0439470276-Terasa-Pe-Baricade/
+* "wikimapia":http://www.wikimapia.org/#lat=44.42493&lon=26.107156&z=17&l=0&m=a&v=2
+* "yahoo maps":http://maps.yahoo.com/#mvt=m&trf=0&lon=26.106251&lat=44.425406&mag=2
+
+Din pacate vorbeam cu tz persoane pe YM in timp ce faceam rezervarea, asa ca nu retzin exact daca am facut pentru 17:30 sau 17:00. Eu o sa ma duc acolo de la 17:30 :).
+
+h3. Organizare
+
+Chiar daca locul are wireless, va rog sa veniti pregatiti pentru o potentiala lipsa a acestuia sau pentru viteze relativ mici. Adica incercati sa aveti documentatii si librarii deja pe computere.
+
+Am vazut ca sunt si cateva persoane care au completat doar partea cu datele de contact. Scopul este hacking vesel, asa ca va rog sa va adaugati si detaliile legate de partea de dezvoltare si sa faceti un plan cat mai realist despre cat puteti face in 2-3 ore de programare (hint: not that much :D).
+
+h3. TODOs
+
+Btw, ar fi bine sa aveti fiecare un prelungitor la voi, "just in cases" :)
+
+h3. First aid
+
+Sper ca hartile sunt destul de clare. Totusi, telefoane:
+
+* Cristi Balan, 0723 678 146
+* Viorel Cojocaru, 0723 622 836
+
+Vedea-ne-am acolo :)

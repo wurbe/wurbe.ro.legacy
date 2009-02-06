@@ -1,0 +1,53 @@
+--- 
+title: "wurbe #7"
+extension: html
+directory: 2008/03/18
+author: evilchelu
+filter: 
+- erb
+- textile
+categories: 
+- blog
+- intalniri
+blog_post: true
+filename: wurbe-7
+layout: post
+created_at: 2008-03-18 14:02:00 +01:00
+---
+Wurbe #7 a avut loc, pe 17 martie 2008, intre 18:00 si 22:30 (01:00), la sediul "Adobe Romania":http://myadobe.ro/. Au fost cam 50 de participanti, 7 prezentari si un mic lightning talk.
+
+A fost o editie care a iesit chiar si mai bine decat celelalte. Mai jos sunt link-uri catre ce au scris altii pe bloguri, mult mai frumos decat mine :).
+
+Multumiri, din nou, celor de la Adobe pentru sala, suc, proiector, badge-uri, rabdare si ajutor :). Rock on!
+
+De la cheta pentru pizza au ramas 87ron, pe care ii vom bea la wurbe #8.
+
+h3. Prezentari
+
+* *Cristi Balan* - Web Standards
+* *Viorel Cojocaru* - "Code Prison":http://wurbe.ro/assets/2008/3/18/Viorel_Cojocaru_-_Code_Prison.pdf
+* *Irina Dumitrascu* - "Semantic HTML":http://wurbe.ro/assets/2008/3/18/Irina_Dumitrascu_-_Semantic_HTML.pdf
+* *Alexandru Badiu* - "Tabele si forumlare accesibile":http://wurbe.ro/assets/2008/3/18/Alexandru_Badiu_-_Tabele_si_forumlare_accesibile.pdf
+* *Andrei Dragomir* - Progressive Enhancement "pdf":http://wurbe.ro/assets/2008/3/18/Andrei_Dragomir_-_Progressive_Enhancement.pdf, "keynote(zip)":http://wurbe.ro/assets/2008/3/18/Andrei_Dragomir_-_Progressive_Enhancement.zip
+* *Andrei Gheorghe* -  "Microformats":http://wurbe.ro/assets/2008/3/18/Andrei_Gheorghe_-_Microformats.pdf
+* *Silviu Postavaru* - "Better Forms":http://wurbe.ro/assets/2008/3/18/Silviu_Postavaru_-_Better_Forms.pdf
+* *Razvan Caliman* - "Usability, Setting User Expectations":http://wurbe.ro/assets/2008/3/18/Razvan_Caliman_-_Usability__Setting_User_Expectations.pdf
+
+h3. Lightning Talks
+
+* *Vlad Nastasiu* - "The Unborn Versions":http://wurbe.ro/assets/2008/3/19/Vlad_Nastasiu_-_The_Unborn_Versions.pdf
+
+h3. Reactii
+
+* Aurelian Oancea - "wurbe-vii-zat":http://www.locknet.ro/article/wurbe-vii-zat
+* Viorel Mocanu - "wurbe7":http://viorelmocanu.ro/blog/wurbe7/
+* Razvan Caliman - "A fost wurbe#7":http://vandpupaza.tskdesign.ro/2008/03/18/a-fost-wurbe7/
+* Alin Zainescu - "Wurbe #7 - despre 'web standards & stuff'":http://www.alinzainescu.ro/?p=154
+* Bogdan Surdu - "Fuse si Wurbe #7":http://www.boo.ro/2008/03/18/fuse-si-wurbe-7/
+* Andrei Maxim - "Standarde web si prietenii la Wurbe":http://andreimaxim.ro/2008/03/standarde-web-si-prietenii-la.html
+* Alexandru Badiu - "Wurbe 7":http://voidberg.org/blog/wurbe_7.html
+
+h3. Poze
+
+* "Flickr, tagged with wurbe":http://www.flickr.com/photos/tags/wurbe
+* "Flickr, tagged with wurbe7":http://www.flickr.com/photos/tags/wurbe7

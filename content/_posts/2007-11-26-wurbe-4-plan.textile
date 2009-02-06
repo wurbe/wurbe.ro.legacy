@@ -1,0 +1,37 @@
+--- 
+title: "wurbe #4 - plan"
+extension: html
+directory: 2007/11/26
+author: evilchelu
+filter: 
+- erb
+- textile
+categories: 
+- blog
+blog_post: true
+filename: wurbe-4-plan
+layout: post
+created_at: 2007-11-26 15:21:00 +01:00
+---
+h3. Ce
+
+Aparent toata lumea e ocupata zilele astea asa ca o sa incercam, din nou, un alt format pt wurbe #4 :).
+
+Ne-am gandit sa combinam o parte foarte apreciata de la wurbe #2 (lightning talk-urile) cu o parte apreciata la #1, si #3, adica berea :). 
+
+Vom incerca sa avem un format simplu. Cineva se apuca sa povesteasca putin (5-10 min) despre un proiect la care lucreaza sau altceva interesant in timp ce restul se bucura si consuma bere/cico/masline.
+
+Cateva exemple:
+
+* deployment aplicatii php cu capistrano :)
+* cum am reparat un bug stupid in rails
+
+h3. Cum
+
+Daca vrei sa anunti despre ce vei povesti, am creat un writeboard pentru "wurbe #4 - propuneri":http://123.writeboard.com/22e5c1da533a8b69f (parola este *wurbe*). Nu trebuie neaparat sa te inscrii dar ar fi util pentru cei care vor sa vina sa vada despre ce se va vorbi.
+
+Este din nou o intalnire in stilul "wurbe #3":http://wurbe.ro/2007/11/6/wurbe-3, orientata spre chestii practice, deci probabil vor fi maxim 20 de participanti. Cei care vor sa vina sunt rugati sa lase un comentariu.
+
+h3. Cand si unde
+
+Pe 10 decembrie, intre 17:00 si 23:00, inca nu stim unde. Ultima locatie, "Pe Baricade" e inchisa de luni pana miercuri asa ca trebuie sa gasim altceva in acelasi stil. Dar, este posibil sa se fi terminat renovarile la "Taverna Viilor". Vom reveni cu detalii. Intre timp, nu ar strica sa avem si alte posibilitati ;).

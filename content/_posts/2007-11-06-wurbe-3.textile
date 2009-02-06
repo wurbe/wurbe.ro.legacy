@@ -1,0 +1,47 @@
+--- 
+title: "wurbe #3"
+extension: html
+directory: 2007/11/06
+author: evilchelu
+filter: 
+- erb
+- textile
+categories: 
+- blog
+- intalniri
+blog_post: true
+filename: wurbe-3
+layout: post
+created_at: 2007-11-06 11:07:00 +01:00
+---
+Am afisat cam tarziu locatia si ora la care va avea loc evenimentul, cu vreo 2 ore inainte nici noi nu stiam unde sa ne gasim. Insa, (thanks to "hot.spots.ro":http://hot.spots.ro) aseara la "Pe Baricade":http://metropotam.ro/Cluburi/loc0817741456-La-Baricade/ s-a tinut intr-un format revolutionar wurbe #3. In urma "propunerii":http://wurbe.ro/2007/10/22/wurbe-3-propunere, "planului":http://wurbe.ro/2007/10/30/wurbe-3-plan si a "anuntului intarziat":http://wurbe.ro/2007/11/5/wurbe-3-tonite, ne-am adunat vreo 10-12 persoane.
+
+Trebuia sa ajungem acolo pe la 17:30. Au ajuns cam putini la ora stabilita sau inainte (Alin, Aurelian si Mihai). Restul am cam ajuns dupa 18:00. Sa ne fie rusine.
+
+Pe la 19:15, ne-am apucat sa si incercam sa facem ceva util. Cel putin pentru sectiunea mea de masa, berea si agitatia au fost prea interesante pentru a termina ceva util :). Totusi, am auzit ca unii chiar au facut o mare parte din ce si-au propus, felicitari :).
+
+h3. Participanti si cam ce-au vrut sa faca
+
+Daca participantii vor sa arate ce au produs, sa comenteze si vom edita pe aici.
+
+A, si probabil am uitat ceva persoane si proiecte...
+
+* "Cristi Balan":http://evil.che.lu si "Andrei Bocan":http://spinach.andascarygoat.com/ - lolcat builder - FAIL!
+* "Sergiu Truta":http://www.sergiutruta.com - "s3+rails":http://www.rorails.ro/articles/30/comments
+* "Aurelian Oancea":http://www.locknet.ro/ - google reader
+* "Alin Alexa":http://alecsas.net/ - ?
+* "Mihai ?":http:// - google maps & google earth something
+* Irina Dumitrascu si "Cristian ?":http:// - facebook app: picassaweb pictures in facebook
+* "Cosmin Lehene":http://cosminlehene.blogspot.com/ - flickr / rails something
+* "Valentin Ceaprazaru":http://lighthouse.softhint.com/ - ?
+* "Andrei Gheorghe":http://hardcode.ro/ - romanian to lolspeak translator + posting comments to a wordpress blog
+* Dragos Georgita - a povestit cu lumea despre AIR
+
+h3. Poze
+
+* nihasa - "picassa - wurbe 3 : 5 nov 2007":http://picasaweb.google.com.au/Nihasa/Wurbe35Nov2007
+
+h3. Reactii
+
+* "nihasa":http://bunny-power.blogspot.com/2007/11/wurbe-3-cu-poze-cu-tot.html (eh, n-a prea inteles ce s-a intamplat dar a facut poze gigea)
+

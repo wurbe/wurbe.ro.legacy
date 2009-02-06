@@ -1,0 +1,38 @@
+--- 
+title: Despre wurbe / FAQ
+extension: html
+author: evilchelu
+filter: 
+- erb
+- textile
+layout: page
+created_at: 2007-08-29 10:44:00 +02:00
+---
+h3. Ce este?
+
+Groupul dezvoltatorilor web din Bucuresti care incearca sa se intalneasca in mod regulat. A aparut in urma unei discutii in care doi oameni se plangeau ca n-au mai vorbit fata in fata cu oameni noi si pasionati de chestii web de cand erau mici.
+
+h3. De ce?
+
+Vrem sa imbunatatim calitatea dezvoltatorilor web prin intalniri si schimburi de experiente.
+
+h3. Cum?
+
+Folosim acest site pentru a planifica locatii si ore de intalnire si de a aduna posibile idei pentru activitati noi. Organizam intalniri la bere sau mici prezentari lunar, dar si workshop-uri sau miniconferinte stil barcamp din cand in cand.
+
+h3. Cine?
+
+Speram ca acest site sa fie un efort al comunitatii. Oricine are ceva de oferit sau propus este incurajat sa contribuie.
+
+De partea administrativa and stuff se ocupa:
+
+* Cristi Balan, evil@che.lu, 0723 678 146 - dns, email, website, organizare
+* Viorel Cojocaru, viorel@beanon.com, 0723 622 836 - organizare
+
+h3. Cum poti ajuta?
+
+Cel mai important, vino la intalniri :). Daca nu poti, scrie despre noi, povestete prietenilor pasionati, propune o locatie pentru urmatoarea intalnire, invata-ne ceva nou.
+
+Acest site foloseste "webby":http://webby.rubyforge.org/ iar sursa este pe "github":http://github.com/evilchelu/wurbe.ro. Patches welcome!
+
+Daca ai orice alta idee, te rugam sa ne lasi un comentariu sau sa ne dai un email.

@@ -1,0 +1,55 @@
+--- 
+title: "wurbe #7 - program"
+extension: html
+directory: 2008/03/17
+author: vio
+filter: 
+- erb
+- textile
+categories: 
+- blog
+blog_post: true
+filename: wurbe-7-program
+layout: post
+created_at: 2008-03-17 09:34:00 +01:00
+---
+*UPDATE:* Am comandat 20 de pizza. Facem cheta :).
+
+Mai sunt cam 6 ore pana cand incepe wurbe #7. S-au inscris 70 de persoane si avem 7 prezentari despre web standards & stuff.
+
+Cei de la Adobe au insistat sa dea pizza si de data asta dar noi ne-am hotarat ca e mai bine sa nu mai acceptam propunerea lor, ca sa eliminam oarecum aparitia unora care veneau doar ca sa nu stea acasa :p. Asa ca, luati-va mancarica la pachet sau, daca ne organizam foarte bine (unlikely), poate comandam noi niste pizza.
+
+*IMPORTANT:* Daca ati mai fost la wurbe, se presupune ca aveti deja un badge, veniti cu ele ca sa nu mai facem altele :). Save the planet! Ma rog, e oarecum tarziu sa va zic asta, asa ca probabil nu le aveti la voi (nici eu nu il am). Macar vom sti cine e prima oara la wurbe :).
+
+Adresa este *Anchor Plaza, Bd. Timisoara, nr. 26Z, et. 9*. Este cladirea de langa Plaza Romania. Se poate ajunge acolo cu:
+
+* metroul pana la Armata Poporului, se ia de la eroilor
+* tramvaiul 41 statia lujerului sau timisoara
+* autobuzul 336 de pe iuliu maniu
+* autobuzul 137 sau tramvaiul 25 de pe bd. timisoara
+
+Nu trebuie printat mail-ul de la eventbrite, cei de la securitate au deja lista cu numele participantilor. Accesul in cladire este permis pe baza actului de identitate, incepand cu ora 17. Va rog sa ajungeti cel tarziu la 17:30 pentru a nu intarzia prezentarile.
+
+Presupun ca lumea planuieste sa povesteasca despre wurbe nepotilor. Asa ca, daca vrei sa fii un "JDD":http://flickr.com/photos/x180/ autohton, adauga tagurile wurbe si wurbe7 la pozele de pe flickr, picasa sau alte site-uri. Asta e sansa ta :).
+
+* "Flickr stream pentru wurbe":http://www.flickr.com/photos/tags/wurbe
+* "Flickr stream pentru wurbe7":http://www.flickr.com/photos/tags/wurbe7
+* "Picasaweb search":http://picasaweb.google.com/lh/searchbrowse?q=wurbe
+
+h2. Program
+
+* 17:30-18:00 Adunarea oamenilor si gasirea de scaune :)
+* 18:00-19:00
+** *Cristi Balan* - Web Standards
+** *Viorel Cojocaru* - Code Prison, exemple negative
+** *Irina Dumitrascu* - Case study: evolutie de la html foarte prost scris (de altii ;) ) la html semantic si css
+* 19:00-19:30  &lt;br/>
+* 19:30-20:30
+** *Alexandru Badiu* - Formulare si tabele accesibile
+** *Andrei Dragomir* - java script - approachuri pentru design cu progressive ehancement; siteuri web cu audienta larga; not graceful degradation; cateva metode si sfaturi de urmat pentru a obtine asta
+** *Andrei Gheorghe* -  Microformats. "hCard", "hResume" & the gang.
+* 20:30-21:00 &lt;br/>
+* 21:00-22:00
+** *Silviu Postavaru* - Usability for developers, formulare mai prietenoase
+** *Razvan Caliman* - Set your user expectations wisely. Usability concepts based on previous user experience. Visual transitions
+* 22:00-23:00 &lt;br/> & open mic

@@ -1,0 +1,33 @@
+--- 
+title: "wurbe #1 - plan de atac"
+extension: html
+directory: 2007/08/29
+author: evilchelu
+filter: 
+- erb
+- textile
+categories: 
+- blog
+blog_post: true
+filename: wurbe-1-plan-de-atac
+layout: post
+created_at: 2007-08-29 10:27:00 +02:00
+---
+Prima intalnire wurbe va avea loc miercuri, 5 septembrie. Propun ora 18:00.
+
+O locatie decenta cred ca ar fi "Karola":http://metropotam.ro/Cluburi/loc0640525494-Karola-by-N/, langa Cismigiu. Au wireless si chiar cateva prize inauntru.
+
+Posibile subiecte de discutie/flaming sunt:
+
+* introduceri si povesti despre cine sunem si ce facem cu web-ul
+* consumat cico/bere
+* discutat ce vrem sa se intampla la urmatoarea intalnire pentru care speram sa avem si o locatie pentru prezentari
+
+Eh?
+
+*Update:* Daca nu gasiti locul sau ora :), telefoanele noastre sunt:
+
+* 0723 678 146 - Cristi Balan
+* 0723 622 836 - Viorel Cojocaru
+
+*Update2:* a fost fun, "am facut si rezumat":/2007/9/6/wurbe-1

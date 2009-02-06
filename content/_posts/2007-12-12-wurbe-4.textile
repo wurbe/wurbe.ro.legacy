@@ -1,0 +1,48 @@
+--- 
+title: "wurbe #4"
+extension: html
+directory: 2007/12/12
+author: vio
+filter: 
+- erb
+- textile
+categories: 
+- blog
+- intalniri
+blog_post: true
+filename: wurbe-4
+layout: post
+created_at: 2007-12-12 11:01:00 +01:00
+---
+h2. Ce s-a intamplat ?
+
+Luni, 10 noiembrie  ne-am adunat in "S.A.L.T":http://saltpub.ro sa discutam despre web in general si despre web development in particular. 
+
+h2. Ce-a iesit ?
+
+20 de oameni ( ne-a numarat cineva? :) ) au discutat si au baut bere pana cand gazdele ne-au spus ca este ultima comanda. Desi erau cateva prezentari anuntate si asteptate, le-am amanat pentru #5, sperand ca la inceput de an vom fi mult mai "concentrati".
+
+h3. Ce s-a discutat ?
+
+* mult offtopic, de la facebook la widget-uri trecand prin memcached( "Adrian Spinei":http://spinei.hotnews.ro avea si cateva slide-uri);
+* tot ce misca in .ro (jobber.ro, proiecte secrete cu cautare pe verticala, captaingo, netcamp, 11minutes, bizdays, geek-meet);
+* chelu a blocat cateva persoane (dar mai ales pe Cosmin) cu o problema cu un computer 
+* Irina a dat de lucru cu o problema de logica cu bile (raspuns = 5);
+* RoR dezbatut la greu, la fel si python (parca am auzit ceva intr-un colt);
+* Ionut Stan (aka Amenthes) ne-a impartasit cateva din noutatile HTML5
+* collaboration for "millionaires projects" si extensii de firefox;
+* nihasa n-a avut nicio treaba, dar a inventat limbajul fyton :D
+* cineva in dreapta mea striga in gura mare: "user awareness! user awareness!", nu am prins decat acest fragment dintr-o discutie ce parea destul de interesanta;
+* fussball.
+ 
+h4. Au scris despre
+
+* Tim  - "Wurbizaram pentru a 4-a oara":http://www.boo.ro/2007/12/11/wurbizaram-pentru-a-4-a-oara/
+* Hardcode - "Wurbe 4 geek meeting":http://hardcode.ro/archive/2007/12/11/wurbe-4-geek-meeting.aspx
+
+h4.  Poze
+
+* nihasa - "Picasa set":http://picasaweb.google.ro/Nihasa/Wurbe4
+* Andrei Maxim - "Flickr set":http://www.flickr.com/photos/andreimaxim/sets/72157603431009790/
+
+Ne vedem la anu'!

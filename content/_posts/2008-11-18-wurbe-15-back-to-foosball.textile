@@ -1,0 +1,31 @@
+--- 
+title: "wurbe #15 - back to foosball"
+extension: html
+directory: 2008/11/18
+author: vio
+filter: 
+- erb
+- textile
+categories: 
+- blog
+blog_post: true
+filename: wurbe-15-back-to-foosball
+layout: post
+created_at: 2008-11-18 21:44:00 +01:00
+---
+h3. Data si locatie
+
+Luni, 24 noiembrie, ora 18.00, in "S.A.L.T.":http://saltpub.ro/  ( "harta":http://metropotam.ro/Cluburi/loc4898674228-SALT-Pub/ )
+
+h3. Organizare
+
+Daca vrei sa vii, adauga un comentariu ca sa stim cate locuri sa rezervam.
+
+h3. Idei de subiecte de discutie
+
+* Bere
+* Cum a fost la wurbe #14
+* Cafea/ceai
+* Subiecte pentru urmatoarea conferinta
+* Papica
+* Diff/Offtopic 

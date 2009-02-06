@@ -1,0 +1,54 @@
+--- 
+title: "wurbe #3 - plan"
+extension: html
+directory: 2007/10/30
+author: evilchelu
+filter: 
+- erb
+- textile
+categories: 
+- blog
+blog_post: true
+filename: wurbe-3-plan
+layout: post
+created_at: 2007-10-30 13:25:00 +01:00
+---
+h3. Cand
+
+Luni, 5 noiembrie, de la 17:00 pana tarziu :).
+
+h3. Google spreadsheet
+
+Bazat pe raspunsurile din "postul precedent":http://wurbe.ro/2007/10/22/wurbe-3-propunere, am creat un Google Spreadsheet pentru inscrierea si organizarea wurbe #3. 
+
+"Google Spreadsheet: wurbe #3 - plan":http://spreadsheets.google.com/ccc?key=pgaXEYaPFcGRpOZ9eSV3ydQ&t=8890425397111383906&guest (requires selling your soul to google)
+
+Aparent unele persoane au probleme cu dracia de spreadsheet. Cica merge dupa ce incerci de cateva ori sa salvezi. Sowy :(.
+
+Contine 3 sheets:
+
+h4. People & skills
+
+Daca vrei sa vii, trebuie sa te inscrii aici. Adauga-ti numele si ce limbaje/tehnologii vrei sa folosesti la wurbe #3. Daca nu ai de gand sa le folosesti, nu le bifa, chiar daca te pricepi la ele.
+
+Inca nu ne-am hotarat cum o sa facem echipele. Momentan, daca stii deja cu cine ai vrea sa lucrezi, poti sa adaugi si numele echipei. Daca asta nu merge as bine, ne (re)organizam la fata locului :). As prefera ca membrii echipelor sa nu fi mai lucrat foarte apropiat inainte, dar nu e o regula.
+
+h4. People, contact, ideas
+
+Aici se aduna ideiile de mashup-uri sau aplicatii pe care vom incerca sa le facem, daca o sa avem net :). Ii rog si pe cei care nu au de gand sa vina sa adauge idei. Sigur sunt oameni care vor chestii si nu stiu cum sa le faca sau nu au timp.
+
+Vom fi adunati in jur de 5-6 ore, din care probabil vom coda maxim 3, asa ca nu trebuie proiecte prea ambitioase sau mari. Nu trebuie nici macar sa fie prea utile :).
+
+h4. Locatii
+
+Adrese si date pentru locuri in care am putea sa ne intindem. Trebuie sa aiba prize si net, preferabil decent si sa nu aiba mult fum sau sa aiba zona de nefumatori bine separata.
+
+Locatia propusa in celalt post e posibil sa fie in renovare asa ca este foarte important sa avem alternative!!
+
+h3. WELP!!! - action points
+
+* *inscrie-te*, daca ai de gand sa vii - ar fi bine sa avem lista aproape gata pana vineri
+* *propune idei* - trebuie sa avem ceva oarecum definit ca sa nu pierdem 1-2h hotarandu-ne ce vrem sa facem
+* *gaseste o locatie* - momentan nu avem niciun loc sigur
+
+Eh?

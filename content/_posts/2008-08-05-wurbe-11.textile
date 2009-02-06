@@ -1,0 +1,29 @@
+--- 
+title: "wurbe #11"
+extension: html
+directory: 2008/08/05
+author: evilchelu
+filter: 
+- erb
+- textile
+categories: 
+- blog
+- intalniri
+blog_post: true
+filename: wurbe-11
+layout: post
+created_at: 2008-08-05 20:24:00 +02:00
+---
+Wurbe #11 a avut loc luni, 14 iulie in "Pe Baricade":http://pe.barica.de/. Vive la France?
+
+Iar uitat sa scriem pe blog :D.
+
+Au fost cam 15 oameni prezenti pe o caldura criminala. Ii retragem mentiunea speciala lui Tim pentru a plecat fara noi in Hong Kong :p.
+
+h3.  Poze
+
+Probabil ca se gasesc in locurile clasice, daca le-a pus cineva:
+
+* "Flickr, tagged with wurbe":http://www.flickr.com/photos/tags/wurbe
+* "Flickr, tagged with wurbe11":http://www.flickr.com/photos/tags/wurbe11
+* "Picasaweb, tagged with wurbe":http://picasaweb.google.com/lh/searchbrowse?q=wurbe

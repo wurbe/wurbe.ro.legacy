@@ -1,0 +1,24 @@
+--- 
+title: "wurbe #10 - Allez les .... "
+extension: html
+directory: 2008/06/07
+author: vio
+filter: 
+- erb
+- textile
+categories: 
+- blog
+blog_post: true
+filename: wurbe-10-allez-les
+layout: post
+created_at: 2008-06-07 11:34:00 +02:00
+---
+Cu deadline-uri pe cap si cu aglomeratia care va fi la terase luni, am decis sa mergem tot in "S.A.L.T":http://saltpub.ro ( "vezi harta":http://metropotam.ro/Cluburi/loc4898674228-SALT-Pub/ ) de la ora 18 ( .. stim, e inside , dar oricum se va sta pana tarziu, ca deobicei ! ) 
+
+Doritorii sunt rugati sa lase un reply sa stim  cam cati ne vom aduna ;)
+
+PS: Nu va lasati laptopurile/notitele la birou !! bere + meci nu inseamna ca o sa uitam ce facem in rest :)
+
+*update* "Schimbari de plan":http://wurbe.ro/2008/6/9/wurbe-10-allez-les-partea-a-2-a
+
+

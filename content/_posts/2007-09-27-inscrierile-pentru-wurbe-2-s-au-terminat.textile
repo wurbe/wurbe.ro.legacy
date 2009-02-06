@@ -1,0 +1,22 @@
+--- 
+title: "Inscrierile pentru wurbe #2 s-au terminat"
+extension: html
+directory: 2007/09/27
+author: evilchelu
+filter: 
+- erb
+- textile
+categories: 
+- blog
+blog_post: true
+filename: inscrierile-pentru-wurbe-2-s-au-terminat
+layout: post
+created_at: 2007-09-27 08:06:00 +02:00
+---
+Whoaa, 76 de persoane s-au inscris pentru wurbe #2. Yay! Se pare ca multa lume astepta aceste intalniri :). Daca nu ai apucat sa te inscrii, urmatoarea intalnire se va intampla in curand.
+
+Avem si multe propuneri de prezentari (foarte interesante!) pe wiki, 9 normale si 4 scurte (lightning talks).
+
+Vineri va fi anuntat programul exact si ordinea prezentarilor. Sper ca il vom putea respecta si ca o sa avem destul timp pentru toate prezentarile propuse. Totusi, daca ne intindem, sunt cateva persoane dispuse sa renunte, sau sa-si scurteze, prezentarile.
+
+ps: scuze pentru radio silence, am fost putin internet impaired

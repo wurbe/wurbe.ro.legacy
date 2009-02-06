@@ -1,0 +1,20 @@
+--- 
+title: "wurbe #10 - la meci!"
+extension: html
+directory: 2008/05/28
+author: xhr
+filter: 
+- erb
+- textile
+categories: 
+- blog
+blog_post: true
+filename: wurbe-10-la-meci
+layout: post
+created_at: 2008-05-28 16:10:00 +02:00
+---
+Pana acum ne-am intalnit la Adobe Romania, Pe Baricade sau in Salt. Ca sa schimbam putin atmosfera si sa ne destindem un pic, ne-am gandit sa impartim o bere cat timp ne uitam la meciul Romania - Franta, care are loc luni, 9 iunie.
+
+Deci stim data, stim ca meciul incepe la ora 7, deci mai ramane sa ne hotaram asupra locatiei. De preferinta o terasa cu ecran cat mai mare :).
+
+*Update*: Cum cei de la Pe Baricade au instalat un LCD fix langa bar zilele trecute, planul e sa facem Wurbe #10 acolo. Orientativ vom rezerva mese pentru 15-20 de persoane, dar daca cineva are de gand sa vina cu toata firma, lasati un comentariu.

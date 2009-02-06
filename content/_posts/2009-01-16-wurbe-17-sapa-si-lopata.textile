@@ -1,0 +1,22 @@
+--- 
+title: "wurbe #17 - sapa si lopata"
+extension: html
+directory: 2009/01/16
+author: xhr
+filter: 
+- erb
+- textile
+categories: 
+- blog
+blog_post: true
+filename: wurbe-17-sapa-si-lopata
+layout: post
+created_at: 2009-01-16 00:46:00 +01:00
+---
+Dupa ce am tras in piept aerul plin de noxe de pe Valea Prahovei, e cazul sa ne apucam cu spor de munca pe anul 2009. Asa ca editia jubiliara #17 va fi dedicata micilor scurtaturi, unelte sau servicii care ne fac viata mai usoara.
+
+Poate vom afla de ce unii cred ca vim/Emacs sunt chiar utile, vom porni un mic razboi svn vs. bzr vs. hg vs. git, vom share-ui script-uri si asa mai departe. La final speram sa stragem o lista de link-uri catre diverse resurse online care ar interesa si pe cititorii nostri fideli.
+
+Deci *miercuri, 21 ianuarie*, ne vom intalni *in SALT la ora 18* sa aflam cum sa lucram mai putin si sa avem rezultate miraculoase.
+
+*update:* Daca vrei sa vii, adauga un comentariu ca sa stim cate locuri sa rezervam.

@@ -1,0 +1,39 @@
+---
+extension: html
+filter:
+  - erb
+  - haml
+layout: default
+---
+.article
+  %h2.title= link_to @page.title, @page.url
+  %p.meta
+    scris de
+    = @page.author
+    pe
+    = @page.created_at.strftime("%Y-%m-%d")
+  .body
+    = @content
+  .footer
+    - if @page.categories && !@page.categories.empty?
+      %h4.meta in:
+      %p= @page.categories.join(", ")
+    - if @page.tags && !@page.tags.empty?
+      %h4.meta tag-uri:
+      %p= @page.tags.join(", ")
+
+    - if true
+      %h4.meta comentariile sunt oprite
+    -else
+      %h4.meta accepta comentarii
+      .comments
+        = link_to "X comments", "{@page.url}#comments"
+
+  #commentslist
+    %h3#comments.content
+      Comentarii
+    %p In curs de mutare pe disqus
+/
+  #commentform
+    %h3.content
+      Comentariile sunt oprite

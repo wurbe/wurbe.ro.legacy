@@ -1,0 +1,27 @@
+---
+title: Blog
+created_at: 2007-08-29 10:44:00 +02:00
+filter:
+  - erb
+  - haml
+dirty:      true
+layout: default
+---
+/ %h1= h(@page.title)
+
+- articles = @pages.find(:all, :limit => 15, :in_directory => @page.dir, :recursive => true, :sort_by => "created_at", :reverse => true, :blog_post => true)
+- articles.delete(@page)
+
+- if articles.empty?
+  %p No articles found.
+- else
+  - articles.each do |page|
+    .article
+      %h2.title= link_to page.title, page.url
+      %p.meta
+        scris de
+        = page.author
+        pe
+        = page.created_at.strftime('%Y-%m-%d')
+      .body
+        = render(page)

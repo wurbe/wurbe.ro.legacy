@@ -1,0 +1,35 @@
+--- 
+title: "wurbe #4 - topics"
+extension: html
+directory: 2007/12/09
+author: aurelian
+filter: 
+- erb
+- textile
+categories: 
+- blog
+blog_post: true
+filename: wurbe-4-topics
+layout: post
+created_at: 2007-12-09 14:00:00 +01:00
+---
+The *good* news: Wurbe #4 va avea loc: luni, 10.Decembrie incepand cu ora 5:30PM  la "S.A.L.T.":http://www.saltpub.ro ("harta":http://www.saltpub.ro/res/harta_mare.gif , "yahoo":http://maps.yahoo.com/#mvt=m&trf=0&lon=26.101134&lat=44.432481&mag=1). Locul are wifi iar preturile arata decent.
+
+Am avut cateva "sugestii":http://123.writeboard.com/22e5c1da533a8b69f (wurbe este parola) de topicuri si tinem sa multumim celor care au facut propuneri si au venit cu idei constructive. Sa nu uitam ca totusi decembrie este luna in care fiecare incearca sa isi lanseze proiectul pana la Craciun sau sa ingrase porcu'.
+
+Asa ca, pentru a mentine un format cat mai simplu intr-un cadru cat mai formal (si fara a avea vreo confirmare), ii asteptam pe:
+* Ionut Stan sa ne vorbeasca despre HTML si XHTML - trecut, prezent si viitor
+* Viorel Cojocaru despre BucharestJournal - extreme semantic theme
+* Adrian Spinei despre Liberte, fraternite, "scalabilite": memcached & friends
+
+Cu siguranta alte discutii vor fi provocate ad-hoc in jurul maslinelor.
+
+De exemplu, chiar daca nu sunt pregatit prea bine, as putea sa va vorbesc putin despre "God(like monit, only awesome)":http://god.rubyforge.org/ insa as fi mult mai interesat in colectarea unui feedback despre Wurbe, pentru a sti ce sa imbunatatim la urmatoarele intalniri.
+
+Ne vedem acolo!
+
+*Update*
+
+Numere de telefon utile:
+* Aurelian Oancea 0721 868 815
+* Viorel Cojocaru  0723 622 836
