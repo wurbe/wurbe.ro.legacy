@@ -13,7 +13,7 @@ filter:
     %title== wurbe#{" - #{@page.title}" if @page.title && !@page.title.empty?}
 
     %link{ :title => 'wurbe feed', :href => global_feed, :type => 'application/atom+xml', :rel => 'alternate' }
-    / %link{ :title => 'wurbe feed feed', :href => global_comments_feed, :type => 'application/atom+xml', :rel => 'alternate' }
+    / %link{ :title => 'wurbe comments feed', :href => global_comments_feed, :type => 'application/atom+xml', :rel => 'alternate' }
 
     %link{ :href => '/stylesheets/base.css', :media => 'screen', :type => 'text/css', :rel => 'stylesheet' }
     /[if IE]
