@@ -10,7 +10,7 @@ filter:
 %html{ :xmlns => "http://www.w3.org/1999/xhtml" }
   %head
     %meta{ 'http-equiv' => 'Content-Type', :content => 'text/html; charset=UTF-8' }
-    %title== wurbe#{" - #{@page.title}" if @page.title && !@page.title.empty?}
+    %title== wurbe#{" - #{@page.title}" if @page.title && !@page.title.to_s.empty?}
 
     %link{ :title => 'wurbe feed', :href => global_feed, :type => 'application/atom+xml', :rel => 'alternate' }
     / %link{ :title => 'wurbe comments feed', :href => global_comments_feed, :type => 'application/atom+xml', :rel => 'alternate' }
