@@ -22,18 +22,12 @@ layout: default
       %h4.meta tag-uri:
       %p= @page.tags.join(", ")
 
-    - if true
-      %h4.meta comentariile sunt oprite
-    -else
-      %h4.meta accepta comentarii
-      .comments
-        = link_to "X comments", "{@page.url}#comments"
-
-  #commentslist
-    %h3#comments.content
-      Comentarii
-    %p In curs de mutare pe disqus
-/
-  #commentform
-    %h3.content
-      Comentariile sunt oprite
+  #disqus_thread
+  %script{ :type => "text/javascript", :src => "http://disqus.com/forums/wurbe/embed.js" }/
+  %noscript
+    %a{ :href => "http://wurbe.disqus.com/?url=ref" }
+      View the discussion thread.
+  %a.dsq-brlink{ :href => "http://disqus.com" }
+    blog comments powered by
+    %span.logo-disqus
+      Disqus

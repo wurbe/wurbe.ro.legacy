@@ -56,7 +56,6 @@ filter:
           .boxy.tall.minor
             %h3 Intalniri
             - meets = @pages.find(:all, :in_directory => "/", :recursive => true, :sort_by => "created_at", :reverse => true, :blog_post => true) { |p| p.title =~ /^wurbe #\d+$/ }
-            - meets.delete(@page)
             / - meets.group_by{|p| p.created_at.strftime('%B')}.each do |month, posts|
             %ul
               - meets.each do |post|
