@@ -3,7 +3,7 @@ directory:  2009/03/02
 filename:   wurbe-18-program
 extension:  html
 
-# blog_post:  true
+blog_post:  true
 layout:     post
 filter:
   - erb
