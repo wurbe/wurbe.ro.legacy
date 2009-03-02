@@ -21,12 +21,12 @@ categories:
 --- 
 Pentru wurbe #18 s-au inscris 70 de persoane si vom avea 4 prezentari si multe lightning talks.
 
-Adresa este *Anchor Plaza, Bd. Timisoara, nr. 26Z, et. 9*. Este cladirea de langa Plaza Romania. Se poate ajunge acolo cu:
+Adresa este *Anchor Plaza, Bd. Timisoara, nr. 26Z, et. 9*. Este cladirea de birouri de langa Plaza Romania. Se poate ajunge acolo cu:
 
 * metroul pana la Armata Poporului, se ia de la eroilor
-* tramvaiul 41 statia lujerului sau timisoara
-* autobuzul 336 de pe iuliu maniu
-* autobuzul 137 sau tramvaiul 25 de pe bd. timisoara
+* tramvaiul 41 pana la statia lujerului sau timisoara
+* autobuzul 336 de la universitate, statia lujerului
+* autobuzul 137 sau tramvaiul 25, pana la bd. timisoara
 
 Nu trebuie printat mail-ul de la eventbrite, cei de la securitate vor avea lista cu numele participantilor. Accesul in cladire este permis pe baza actului de identitate, incepand cu ora 17:30. Va rog sa incercati sa ajungeti la timp pentru a nu intarzia prezentarile.
 
@@ -39,7 +39,7 @@ h3. Poze
 Presupun ca lumea planuieste sa povesteasca despre wurbe nepotilor. Asa ca, daca vrei sa fii un "JDD":http://flickr.com/photos/x180/ autohton, adauga tagurile wurbe si wurbe18 la pozele de pe flickr, picasa sau alte site-uri. Asta e sansa ta :).
 
 * "Flickr stream pentru wurbe":http://www.flickr.com/photos/tags/wurbe
-* "Flickr stream pentru wurbe14":http://www.flickr.com/photos/tags/wurbe18
+* "Flickr stream pentru wurbe18":http://www.flickr.com/photos/tags/wurbe18
 * "Picasaweb search":http://picasaweb.google.com/lh/searchbrowse?q=wurbe
 
 h3. Program
