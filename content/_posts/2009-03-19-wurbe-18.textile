@@ -19,7 +19,7 @@ categories:
 # tags:
 #  - moo
 --- 
-Wurbe #14 a avut loc, pe 5 martie 2009, intre 18:30 si 22:30, la sediul "Adobe Romania":http://myadobe.ro/. Au fost cam 50 de participanti si 5 prezentari.
+Wurbe #18 a avut loc, pe 5 martie 2009, intre 18:30 si 22:30, la sediul "Adobe Romania":http://myadobe.ro/. Au fost cam 50 de participanti si 5 prezentari.
 
 A fost o editie interesanta si plina de propovaduire a programelelor mici si utile, si a chestiilor care fac un singur lucru, si emacs.
 
@@ -33,7 +33,7 @@ Nu exista PDF-uri pentru ca prezentarile au fost hands on.
 
 * *Alexandru Nedelcu* - "Emacs - editorul zeilor":http://lexoft.eu/blog/2009/03/151.html
 * *Cristi Balan* - vimfu - vimfu.com inca nu e gata, din motive de, ahem, orar de somn dubios :)
-* *Irina Dumitrascu* - enso
+* *Irina Dumitrascu* - Enso Launcher
 * *Andrei Dragomir* - ~/bin
 * *Bogdan Lucaciu* - screen
 
