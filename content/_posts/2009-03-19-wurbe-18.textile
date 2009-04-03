@@ -39,6 +39,7 @@ Nu exista PDF-uri pentru ca prezentarile au fost hands on.
 
 h3. Reactii
 * Tudor Barbu - "Emacs and vim presentations at Wurbe":http://blog.motane.lu/2009/03/06/power-in-simplicity/
+* Razvan Caliman - "A fost Wurbe18":http://vandpupaza.tskdesign.ro/2009/03/08/a-fost-wurbe18/
 
 h3. Poze
 
