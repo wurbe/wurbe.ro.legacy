@@ -13,7 +13,6 @@ filter:
     %title== wurbe#{" - #{@page.title}" if @page.title && !@page.title.to_s.empty?}
 
     %link{ :title => 'wurbe feed', :href => global_feed, :type => 'application/atom+xml', :rel => 'alternate' }
-    / %link{ :title => 'wurbe comments feed', :href => global_comments_feed, :type => 'application/atom+xml', :rel => 'alternate' }
 
     %link{ :href => '/stylesheets/base.css', :media => 'screen', :type => 'text/css', :rel => 'stylesheet' }
     /[if IE]
@@ -46,17 +45,9 @@ filter:
             %p== wurbe (web urbe) este grupul dezvoltatorilor web din bucuresti. Citeste mai multe detalii #{link_to "despre noi", "/despre"}.
             %p#subscribe
               %a.feed{ :href => global_feed } articles feed
-              / %br
-              / %a.feed{ :href => global_comments_feed } comments feed
-          / {{ 'blog' | section | months | assign_to: 'blog_section' }}
-          / {{ blog_section | latest_articles | assign_to: 'recents' }}
-          
-          / {{ 'intalniri' | section | months | assign_to: 'meets_section' }}
-          / {{ meets_section | latest_articles | assign_to: 'meets_recents' }}
           .boxy.tall.minor
             %h3 Intalniri
             - meets = @pages.find(:all, :in_directory => "/", :recursive => true, :sort_by => "created_at", :reverse => true) { |p| p.title =~ /^wurbe #\d+$/ && p.blog_post }
-            / - meets.group_by{|p| p.created_at.strftime('%B')}.each do |month, posts|
             %ul
               - meets.each do |post|
                 %li
