@@ -3,7 +3,7 @@ directory:  2009/04/13
 filename:   wurbe-19
 extension:  html
 
-# blog_post:  true
+blog_post:  true
 layout:     post
 filter:
   - erb
@@ -14,18 +14,18 @@ author:     Cristi Balan
 
 title:      "wurbe #19"
 categories:
-  #- blog
-  #- intalniri
+  - blog
+  - intalniri
 --- 
 Wurbe #19 a avut loc marti, 24 martie in "S.A.L.T.":http://saltpub.ro/.
 
 Au fost cam 10-15 persoane, ceva mai multi oameni noi decat de obicei. D-abia acum mi-am adus aminte ca trebuie pus post dupa ce se intampla o intalnire :).
 
 Aparent s-a vorbit despre:
-* vim
+* accessibility & screen readere
 * dieta & exercise
 * calatorii
-* ???
+* vim
 
 h2.  Poze
 
