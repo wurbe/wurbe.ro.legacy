@@ -5,3 +5,5 @@ This is the source for "wurbe.ro":http://wurbe.ro. Running on webby.
   webby blog:post "wurbe #XX" # or just copy an existing file
   webby blog:create_indexes && webby autobuild --trace
   webby blog:create_indexes && webby build --trace
+
+After you're done posting, just push back to the repo. Updating is done automagically, on the hour.
