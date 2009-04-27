@@ -18,15 +18,15 @@ categories:
 --- 
 Bere si poate continuarea discutiilor despre vim, emacs, ~/bin & friends.
 
-h2. Data si locatie
+h3. Data si locatie
 
 Marti, 24 martie 2009, incepand cu ora 18.00, "S.A.L.T.":http://saltpub.ro/.
 
-h2. Organizare
+h3. Organizare
 
 Daca vrei sa vii, adauga un comentariu ca sa stim cate locuri sa rezervam.
 
-h2. Idei de subiecte de discutie
+h3. Idei de subiecte de discutie
 
 * bere/cico/cafea
 * vim
