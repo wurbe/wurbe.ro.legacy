@@ -10,9 +10,9 @@ filter:
   - textile
 
 created_at: 2009-05-15 16:30:30 +02:00
-author:     Andrei Maxun
+author:     Andrei Maxim
 
-title:      "wurbe #21 - A zis cineva bere?"
+title:      "wurbe #21 - a zis cineva bere?"
 categories:
   - blog
 --- 
