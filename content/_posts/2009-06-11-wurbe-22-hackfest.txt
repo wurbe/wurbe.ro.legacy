@@ -1,6 +1,6 @@
 --- 
 directory:  2009/06/11
-filename:   wurbe-number-22-hackfest
+filename:   wurbe-22-hackfest
 extension:  html
 
 # blog_post:  true
