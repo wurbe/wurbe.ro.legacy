@@ -3,7 +3,7 @@ directory:  2009/06/11
 filename:   wurbe-22-hackfest
 extension:  html
 
-# blog_post:  true
+blog_post:  true
 layout:     post
 filter:
   - erb
@@ -12,13 +12,13 @@ filter:
 created_at: 2009-06-11 17:30:30 +03:00
 author:     Andrei Bocan
 
-title:      Wurbe #22 - Hackfest
+title:      "Wurbe #22 - Hackfest"
 categories:
   - blog
 --- 
 In mod absolut natural si tinand cont de misticismul numarului 19, wurbe #22 va avea in principal aceeasi tematica pe care a avut-o si "wurbe #3":http://wurbe.ro/2007/11/06/wurbe-3/, respectiv un hackfest.
 
-In concordanta cu valoarea wurbe, infinit mai mare decat cea de atunci, hackfest-ul de acum va fi infinit mai mare decat cel de atunci: de la 10 AM la 10 PM, un recital maraton din partea poetilor in cod de toate varstele.
+In concordanta cu valoarea wurbe, infinit mai mare decat cea de atunci, hackfest-ul de acum va fi infinit mai mare decat cel de atunci: *pe 4 iulie*, de la 10 AM la 10 PM, un recital maraton din partea poetilor in cod de toate varstele.
 
 h3. Detalii organizatorice
 
