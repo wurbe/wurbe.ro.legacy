@@ -39,7 +39,7 @@ Preferabil, la finalul hackfest-ului, aplicatiile vor fi si deployed undeva. Pen
 h3. Program
 
 * 09:30-10:00 Asezarea la mese, conectare la internet, etc
-* 10:00-22:00 hackfest!!
+* 10:00-22:00 hackfest!! (nu vor fi pauze "oficiale" de masa pentru ca vom comanda pizza)
 * 22:00-..... bere&stuff
 
 h3. Recapitulare/TODO pentru participanti
