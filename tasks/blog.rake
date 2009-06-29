@@ -11,7 +11,8 @@ namespace :blog do
     page = File.join(dir, "_posts", page)
     page = Webby::Builder.create(page, :from => template,
                :locals => {:title => title, :directory => dir, :filename => basename})
-    exec(::Webby.editor, page) unless ::Webby.editor.nil?
+
+    exec(ENV["EDITOR"], page)
   end
 
   task :create_indexes do |t|
