@@ -1,0 +1,55 @@
+--- 
+directory:  2009/07/03
+filename:   wurbe-22-ultimele-detalii
+extension:  html
+
+#blog_post:  true
+layout:     post
+filter:
+  - erb
+  - textile
+
+created_at: 2009-07-03 13:26:57 +03:00
+author:     Cristi Balan
+
+title:      "wurbe #22 - ultimele detalii"
+categories:
+  - blog
+--- 
+
+Pentru wurbe #22 s-au inscris 19 persoane. 6 echipe de cate 2 persoane si 7 oameni delicati pe care ii vom organiza cumva la fata locului.
+
+Adresa este *Anchor Plaza, Bd. Timisoara, nr. 26Z, et. 9*. Este cladirea de birouri de langa Plaza Romania. Se poate ajunge acolo cu:
+
+* metroul pana la Armata Poporului, se ia de la eroilor
+* tramvaiul 41 pana la statia lujerului sau timisoara
+* autobuzul 336 de la universitate, statia lujerului
+* autobuzul 137 sau tramvaiul 25, pana la bd. timisoara
+
+Accesul in cladire este permis pe baza actului de identitate, incepand cu ora 9:00 (am extras numele celor 19 din writeboard la ora 13:00). Va rog sa ajungeti la cel tarziu 9:30 ca sa avem timp sa ne organizam putin.
+
+h3. Papica
+
+Vom comanda pizza sau mancare pentru care vom face cheta. Apa si suc primim de la Adobe.
+
+h3. Poze
+
+Presupun ca lumea planuieste sa povesteasca despre wurbe nepotilor. Asa ca, daca vrei sa fii un "JDD":http://flickr.com/photos/x180/ autohton, adauga tagurile wurbe si wurbe22 la pozele de pe flickr, picasa sau alte site-uri. Asta e sansa ta :).
+
+* "Flickr stream pentru wurbe":http://www.flickr.com/photos/tags/wurbe
+* "Flickr stream pentru wurbe22":http://www.flickr.com/photos/tags/wurbe22
+* "Picasaweb search":http://picasaweb.google.com/lh/searchbrowse?q=wurbe
+
+h3. Program
+
+* 09:30-10:00 Asezarea la mese, conectare la internet, etc
+* 10:00-22:00 hackfest!! (nu vor fi pauze "oficiale" de masa pentru ca vom comanda pizza)
+* 22:00-..... bere&stuff
+
+h3. Recapitulare/TODO pentru participanti
+
+* veniti cu cel putin o idee relativ bine definita. daca vom incerca sa facem niste echipe ad-hoc, e mult mai ok sa le formam in jurul unei idei
+* actualizati-va datele personale si ale echipei pe "writeboard":http://123.writeboard.com/2176d533d14fa47c4/ (parola e *wurbe*)
+* intrati pe IRC pe canalul "#wurbe de pe irc.freenode.net":irc://irc.freenode.net/wurbe
+* incercati sa imprumutati de la prieteni un device 3G, preferabil un modem wifi cu suport 3G ca sa-l putem, err, impartasi in caz ca se strica internetul de la Adobe
+
