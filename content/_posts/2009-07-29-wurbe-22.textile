@@ -27,7 +27,7 @@ h3. Participanti
 
 Lista e bazata pe datele din writeboard si din ce imi mai aduc aminte. Daca am gresit ceva, please fork&fix&pull request ("http://github.com/evilchelu/wurbe":http://github.com/evilchelu/wurbe).
 
-h4 echipa thefuck?!
+h4. echipa thefuck?!
 
 aplicatie rails + mootools pentru pus si raspuns la intrebari (a fost si deployed in 2 locuri, linode si heroku)
 
