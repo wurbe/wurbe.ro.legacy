@@ -25,7 +25,7 @@ Multumiri celor de la Adobe pentru tot ajutorul oferit. Am primit sala, internet
 
 h3. Participanti
 
-Lista e bazata pe datele din writeboard si din ce imi mai aduc aminte. Daca am gresit ceva, please fork&fix&pull request ("http://github.com/evilchelu/wurbe":http://github.com/evilchelu/wurbe).
+Lista e bazata pe datele din writeboard si din ce imi mai aduc aminte. Daca am gresit ceva, please fork&fix&pull request ("http://github.com/evilchelu/wurbe.ro":http://github.com/evilchelu/wurbe.ro).
 
 h4. echipa thefuck?!
 
@@ -42,6 +42,7 @@ h4. echipa Explorand (twistori pentru .ro)
 
 * Viorel Cojocaru - vio
 * Andrei Maxim - acm
+* Cosmin Gorgovan - lgeek
 
 h4. echipa numeechipa
 
@@ -55,10 +56,7 @@ chestie cu baut bere
 * Andrei Bocan - zmack
 * Mihai Anca - ropiku
 
-h4. echipa numeechipa
-
-* Dumitru Bogdan - ircnick
-* Valentin Caramihai - ircnick
+* "http://github.com/ropiku/zealot/tree/master":http://github.com/ropiku/zealot/tree/master
 
 h4. echipa numeechipa
 
@@ -71,7 +69,6 @@ django-otp - one time password login using email & im
 
 h4. other people
 
-* Cosmin Gorgovan - lgeek
 * Cristian George Strat
 * Silviu Ionut Ganceanu
 * Andrei Dragomir
