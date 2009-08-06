@@ -22,7 +22,7 @@ layout: default
       %h4.meta tag-uri:
       %p= @page.tags.join(", ")
 
-  - if @page.title =~ /wurbe #(1[89]|2\d)/
+  - if @page.title =~ /(wurbe #(1[89]|2\d)|bugmash)/
     #disqus_thread
     %script{ :type => "text/javascript", :src => "http://disqus.com/forums/wurbe/embed.js" }
     %noscript
