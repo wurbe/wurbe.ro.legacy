@@ -15,8 +15,8 @@ Fugi la sectiunea "intalniri":/intalniri daca vrei sa citesti despre intalnirile
 
 h3. Cea mai recenta intalnire
 
-A avut loc pe 21 mai, pe Baricade. Detalii la "wurbe #21":/2009/05/27/wurbe-21.
+A fost pe *4 iulie*, la "Adobe Romania":http://myadobe.ro. Detalii la "wurbe #22 - hackfest":/2009/06/11/wurbe-22-hackfest.
 
 h3. Urmatoarea intalnire
 
-Urmatoarea intalnire o sa fie pe *4 iulie*, la "Adobe Romania":http://myadobe.ro. Detalii la "wurbe #22 - hackfest":/2009/06/11/wurbe-22-hackfest.
+Va avea loc in august. Stay tuned.
