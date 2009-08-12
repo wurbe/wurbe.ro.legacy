@@ -1,0 +1,29 @@
+--- 
+directory:  2009/08/12
+filename:   wurbe-23-bere-de-vara
+extension:  html
+
+# blog_post:  true
+layout:     post
+filter:
+  - erb
+  - textile
+
+created_at: 2009-08-12 15:50:22 +02:00
+author:     Andrei Bocan
+
+title:      "wurbe #23 Bere de vara"
+categories:
+  - blog
+--- 
+Fara figuri sau diacritice am decis sa incheiem vara in mod oficial joi, pe 13 august 2009 cu o runda de bauturi racoritoare, la obisnuita ora 18:00 in terasa "Pe Baricade":http://www.pebaricade.ro/ ("harta":http://metropotam.ro/Cluburi/loc0817741456-La-Baricade/)
+
+Daca vii, adauga un comentariu ca sa stim cat de mult o sa trebuiasca sa scalam mesele.
+
+h3. Plan general al subiectelor de discutie
+
+* ROI
+* business models
+* barfa din industrie
+* vreme
+* bacsis
