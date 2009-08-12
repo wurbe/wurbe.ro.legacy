@@ -3,7 +3,7 @@ directory:  2009/08/12
 filename:   wurbe-23-bere-de-vara
 extension:  html
 
-# blog_post:  true
+blog_post:  true
 layout:     post
 filter:
   - erb
