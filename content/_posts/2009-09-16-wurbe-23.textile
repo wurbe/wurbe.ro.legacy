@@ -1,0 +1,27 @@
+--- 
+directory:  2009/09/16
+filename:   wurbe-23
+extension:  html
+
+blog_post:  true
+layout:     post
+filter:
+  - erb
+  - textile
+
+created_at: 2009-09-16 17:00:20 +03:00
+author:     Cristi Balan
+
+title:      "wurbe #23"
+categories:
+  - blog
+  - intalniri
+--- 
+Wurbe #23 a avut loc pe 23 mai, in "Pe Baricade":http://www.pebaricade.ro/. Cu toate ca am anuntat doar cu o zi inainte, au venit surprinzator de multi oameni, peste 20 si foarte multe figuri noi.
+
+Din pacate nu mai tinem minte exact despre ce s-a vorbit. Dar, a fost foarte interesant :).
+
+h3. Poze
+
+* "Flickr, tagged with wurbe":http://www.flickr.com/photos/tags/wurbe
+* "Flickr, tagged with wurbe23":http://www.flickr.com/photos/tags/wurbe23
