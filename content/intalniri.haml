@@ -9,7 +9,7 @@ layout: default
 ---
 / %h1= h(@page.title)
 
-- articles = @pages.find(:all, :limit => 15, :in_directory => @page.dir, :recursive => true, :sort_by => "created_at", :reverse => true, :blog_post => true)
+- articles = @pages.find(:all, :limit => 15, :in_directory => @page.dir, :recursive => true, :sort_by => "created_at", :reverse => true, :blog_post => true) { |p| p.title =~ /^wurbe #\d+$/ }
 - articles.delete(@page)
 
 - if articles.empty?
