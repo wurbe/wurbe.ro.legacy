@@ -1,0 +1,27 @@
+--- 
+directory:  2009/09/23
+filename:   rails-bugmash-2
+extension:  html
+
+blog_post:  true
+layout:     post
+filter:
+  - erb
+  - textile
+
+created_at: 2009-09-23 23:10:31 +03:00
+author:     Cristi Balan
+
+title:      "rails bugmash 2"
+categories:
+  - blog
+--- 
+Primul "rails bugmash":http://wiki.railsbridge.org/projects/railsbridge/wiki/BugMash#The-First-Rails-and-RailsBridge-BugMash a fost pe 8-9 august si noi "l-am anuntat":/2009/08/06/rails-bugmash. Din pacate, se pare ca doar doua persoane de pe la noi ("eu (evilchelu)":http://evil.che.lu/ si "irina (dira)":http://www.dira.ro/blog/2009/08/will-fix-bugs-for-fun-rails-bugmash/) au participat.
+
+Din fericire pentru doritori, se mai organizeaza inca unul!
+
+In weekendul 26-27 august, echipa "RailsBridge":http://railsbridge.org/ organizeaza al doilea "BugMash":http://wiki.railsbridge.org/projects/railsbridge/wiki/BugMash. BugMash-ul este deschis oricarei persoane care foloseste ruby sau rails. Nu trebuie sa fii un super programator ca sa contribui. Poti sa incerci sa reproduci un bug pentru a-l confirma, poti sa scrii un test sau ceva documentatie. Detalii sunt pe wiki-ul evenimentului.
+
+Pentru a incuraja contributiile la proiecte open source in Romania, va propunem sa participati la eveniment. Concret, wurbe va premia un participant din Romania folosind "regulile oficiale pentru acordarea premiilor":http://wiki.railsbridge.org/projects/railsbridge/wiki/BugMash#Scoring. In principiu, premiul este cartea "Ruby Design Patterns":http://designpatternsinruby.com/, dar mai sunt si alte posibilitati interesante. Daca sunt prea multi participanti, poate mai gasim si alte premii :). Va rugam sa va anuntati prezenta printr-un comentariu.
+
+Spor!
