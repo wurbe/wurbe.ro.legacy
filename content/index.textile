@@ -13,10 +13,10 @@ wurbe este o adunatura de oameni pasionati de chestii legate de dezvoltare web. 
 
 Fugi la sectiunea "intalniri":/intalniri daca vrei sa citesti despre intalnirile precedente. Daca vrei sa participi la organizarea urmatoarei intalniri sau sa vezi cu ce ne mai ocupam, detalii sunt pe "blog":/blog.
 
-h3. Cea mai recenta intalnire
-
-A fost pe *13 august*. Detalii la "wurbe #23":/2009/09/16/wurbe-23.
-
 h3. Urmatoarea intalnire
 
-Va fi pe *17 septembrie*. Detalii la "wurbe #24 - bere aniversara":/2009/09/16/wurbe-24-bere-aniversara.
+Va fi pe *27 octombrie*. Detalii la "wurbe #25 - nosql":/2009/09/23/wurbe-25-nosql.
+
+h3. Cea mai recenta intalnire
+
+A fost pe *17 septembrie*. Detalii la "wurbe #24":/2009/09/23/wurbe-24.
