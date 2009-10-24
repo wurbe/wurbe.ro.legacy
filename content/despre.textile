@@ -31,7 +31,7 @@ De partea administrativa and stuff se ocupa:
 
 h3. Cum poti ajuta?
 
-Cel mai important, vino la intalniri :). Daca nu poti, scrie despre noi, povestete prietenilor pasionati, propune o locatie pentru urmatoarea intalnire, invata-ne ceva nou.
+Cel mai important, vino la intalniri :). Daca nu poti, scrie despre noi, povesteste prietenilor pasionati, propune o locatie pentru urmatoarea intalnire, invata-ne ceva nou.
 
 Acest site foloseste "webby":http://webby.rubyforge.org/ iar sursa este pe "github":http://github.com/evilchelu/wurbe.ro. Patches welcome!
 
