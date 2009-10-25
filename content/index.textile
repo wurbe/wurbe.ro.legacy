@@ -15,7 +15,7 @@ Fugi la sectiunea "intalniri":/intalniri daca vrei sa citesti despre intalnirile
 
 h3. Urmatoarea intalnire
 
-Va fi pe *27 octombrie*. Detalii la "wurbe #25 - nosql":/2009/09/23/wurbe-25-nosql.
+Va fi pe *27 octombrie*. Detalii la "wurbe #25 - nosql":/2009/09/23/wurbe-25-nosql si "wurbe #25 - program":/2009/10/25/wurbe-25-program.
 
 h3. Cea mai recenta intalnire
 
