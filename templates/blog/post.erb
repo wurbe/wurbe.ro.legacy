@@ -8,11 +8,16 @@ layout:     post
 filter:
   - erb
   - textile
+<%
+  off = Time.now.utc_offset
+  sign = off < 0 ? '-' : '+'
+  tz_offset = sprintf('%s%02d:%02d', sign, *(off.abs / 60).divmod(60))
+  created_at = Time.now.strftime("%Y-%m-%d %H:%m:%S #{tz_offset}")
+%>
+created_at: <%= created_at %>
 
-created_at: <%= Time.now %>
 author:     <%= `git config --global user.name` -%>
-
-title:      <%= title %>
+title:      "<%= title %>"
 categories:
   - blog
   # - intalniri

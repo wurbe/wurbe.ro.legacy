@@ -4,10 +4,14 @@ namespace :blog do
   task :post do |t|
     template = "#{Webby.site.template_dir}/blog/post.erb"
 
-    page, title, dir = Webby::Builder.new_page_info
+    page_info = Webby::Builder.new_page_info
+    args = Webby.site.args
+    title = args.raw.first
+    page = title.downcase.split(' ').join('-').gsub('#', '').gsub(/-+/, '-')
+    dir  = ''
 
     basename = File.basename(page)
-    page = "#{Time.now.strftime('%Y-%m-%d')}-#{basename}"
+    page = "#{Time.now.strftime('%Y-%m-%d')}-#{basename}.textile"
     page = File.join(dir, "_posts", page)
     page = Webby::Builder.create(page, :from => template,
                :locals => {:title => title, :directory => dir, :filename => basename})
