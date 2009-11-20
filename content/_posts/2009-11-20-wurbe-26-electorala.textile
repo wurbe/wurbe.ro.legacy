@@ -1,5 +1,5 @@
 --- 
-directory:  2009/09/16
+directory:  2009/11/20
 filename:   wurbe-26-electorala
 extension:  html
 
