@@ -1,0 +1,29 @@
+--- 
+directory:  2009/09/16
+filename:   wurbe-26-electorala
+extension:  html
+
+blog_post:  true
+layout:     post
+filter:
+  - erb
+  - textile
+
+created_at: 2009-11-20 11:08:00 +03:00
+author:     Andrei Maxim
+
+title:      "wurbe #26 - electorala"
+categories:
+  - blog
+--- 
+A 26-a editie Wurbe va avea loc vineri, 27 noiembrie, in locatia de iarna aka "S.A.L.T.":http://metropotam.ro/Cluburi/loc4898674228-SALT-Pub/, incepand cu ora 18. Confirmarea prezentei se face via formularul de comentarii.
+
+Ca posibile subiecte de discutie:
+
+* lucruri nespuse la wurbe #25
+* Google stuff (Go!, ChromeOS)
+* barfa din industrie
+* vremea
+* proiecte, idei, etc.
+
+Si pentru ca ne aflam in miezul alegerilor, propunem urmatoarea regula: orice discutie cu caracter politic trebuie udata, in avans, cu o bere sau un vin fiert.
