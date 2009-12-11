@@ -1,0 +1,28 @@
+--- 
+directory:  2009/12/11
+filename:   wurbe-27-final-de-an
+extension:  html
+
+blog_post:  true
+layout:     post
+filter:
+  - erb
+  - textile
+
+created_at: 2009-12-11 17:00:00 +03:00
+author:     Andrei Maxim
+
+title:      "wurbe #27 - final de an"
+categories:
+  - blog
+--- 
+A 27-a şi ultima ediţie pe anul 2009 de Wurbe va avea loc luni, 14 decembrie, în "S.A.L.T.":http://metropotam.ro/Cluburi/loc4898674228-SALT-Pub/, începând cu ora 18. 
+
+Ca posibile subiecte de discuţie:
+
+* cum a fost anul 2009
+* planuri de viitor
+* locaţii pentru schi sau snowboarding
+* dacă timpul permite, chestii IT-related.
+
+Ca de obicei, prezenţa se confirmă via formularul de comentarii.
