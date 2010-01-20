@@ -3,7 +3,7 @@ directory:  2010/01/20
 filename:   wurbe-27
 extension:  html
 
-blog_post:  false
+blog_post:  true
 layout:     post
 filter:
   - erb
@@ -24,7 +24,7 @@ Dupa un an de dezbateri legate doar de stiinta rece si pur matematica a dezvolta
 
 Am discutat despre crearea armoniei la locul de munca, feng shui ( 風水 ), echilibrul dintre munca si viata personala, si armonia in comunicarea cu ceilalti.
 
-A fost o gura de aer proaspat de munte dupa doisprezece luni de stat in oras.
+A fost o gura de aer proaspat de munte dupa douasprezece luni de stat in oras.
 
 
 Artistii fotografi si-au demonstrat maiestria prin urmatoarele opere:
