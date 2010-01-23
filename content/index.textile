@@ -15,7 +15,7 @@ Fugi la sectiunea "intalniri":/intalniri daca vrei sa citesti despre intalnirile
 
 h3. Urmatoarea intalnire
 
-Va fi anuntata in curand.
+Va fi *joi, 28 ianuarie*, in SALT. Subiectele de discutie si mai multe detalii sunt "aici":/2010/01/22/wurbe-28-event-driven
 
 h3. Cea mai recenta intalnire
 
