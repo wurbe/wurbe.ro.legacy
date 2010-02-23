@@ -19,7 +19,7 @@ categories:
 
 După ce ne-am revenit din petrecerile cauzate de trecerea în noul an, ne-a lovit un pic nostalgia şi ne-am gândit să discutăm despre toate tehnologiile pe care le-am folosit la un moment dat, dar care încep să dispară.
 
-Mai ţii minte cum era să scrii cod în Visual Basic? Mai ai pe un floppy ultima aplicaţie scrisă în Pascal? Îţi aduci aminte de folderul cu script-uri CGI meseriaş programate în Perl? Mai ai un screenshot cu site-ul de pe Geocities, unde atrăgeai privirile cu background-uri sclipitoare şi unde făceai abuz de <blink> sau <marquee>? Mai ai arhiva cu gif-uri animate făcute în Fireworks?
+Mai ţii minte cum era să scrii cod în Visual Basic? Mai ai pe un floppy ultima aplicaţie scrisă în Pascal? Îţi aduci aminte de folderul cu script-uri CGI meseriaş programate în Perl? Mai ai un screenshot cu site-ul de pe Geocities, unde atrăgeai privirile cu background-uri sclipitoare şi unde făceai abuz de @<blink>@ sau @<marquee>@? Mai ai arhiva cu gif-uri animate făcute în Fireworks?
 
 Dacă ai răspuns "da" măcar la una din întrebările de mai sus, vino joi, 25 februarie, de la ora 18, în "S.A.L.T.":http://metropotam.ro/Cluburi/loc4898674228-SALT-Pub/, să depănăm amintiri despre vremuri de mult trecute. Şi dacă eşti pregătit să-ţi arăti operele de artă, primeşti o bere din partea casei!
 
