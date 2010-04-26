@@ -17,7 +17,7 @@ categories:
   - blog
 --- 
 
-.. nu chiar, dar ne pregatim, joi de la 18:00 ne mutam "Pe Baricade":http://www.pebaricade.ro/ ("harta":http://metropotam.ro/Cluburi/loc0817741456-La-Baricade/)
+.. nu chiar, dar ne pregatim, joi 29 aprilie de la 18:00 ne mutam "Pe Baricade":http://www.pebaricade.ro/ ("harta":http://metropotam.ro/Cluburi/loc0817741456-La-Baricade/)
 
 
 h3. Plan general al subiectelor de discutie
