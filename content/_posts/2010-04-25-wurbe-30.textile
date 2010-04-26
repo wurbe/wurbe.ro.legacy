@@ -1,0 +1,28 @@
+--- 
+directory:  2010/04/25
+filename:   wurbe-30
+extension:  html
+
+blog_post:  true
+layout:     post
+filter:
+  - erb
+  - textile
+
+created_at: 2010-04-25 20:02:21 +02:00
+
+author:     Viorel Cojocaru
+title:      "wurbe #30"
+categories:
+  - blog
+  - intalniri
+--- 
+
+
+La #30, aparent editie aniversara, ne-am strans in SALT sa bem un suc/bere si sa vorbim despre Mobile Development.
+
+Surprinzator, s-a vorbit destul de mult on-topic, IPhone/IPad development fiind subiectul principal. Dupa mai multe beri, discutiile s-au aprins la javascript, retele sociale si unici in .ro(sic).
+
+Nu ne aducem aminte sa fi vazut pe cineva cu DSLR-ul dupa el, compensam data viitoare cand toti le vom avea la noi :)
+
+* "Flickr, tagged with wurbe":http://www.flickr.com/photos/tags/wurbe
