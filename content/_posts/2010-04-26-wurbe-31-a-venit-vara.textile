@@ -1,0 +1,32 @@
+--- 
+directory:  2010/04/26
+filename:   wurbe-31-a-venit-vara
+extension:  html
+
+blog_post:  true
+layout:     post
+filter:
+  - erb
+  - textile
+
+created_at: 2010-04-26 20:50:22 +02:00
+author:     Viorel Cojocaru
+
+title:      "wurbe #31 A venit vara"
+categories:
+  - blog
+--- 
+
+.. nu chiar, dar ne pregatim, joi de la 18:00 ne mutam "Pe Baricade":http://www.pebaricade.ro/ ("harta":http://metropotam.ro/Cluburi/loc0817741456-La-Baricade/)
+
+
+h3. Plan general al subiectelor de discutie
+
+* HTML5/CSS3
+* suc/bere
+* privacy
+* suc/bere
+* Twitter Annotations
+* bacsis
+
+Daca vii, adauga un comentariu ca sa stim cat de mult o sa trebuiasca sa scalam mesele.
