@@ -1,0 +1,34 @@
+--- 
+directory:  2010/05/18
+filename:   wurbe-31
+extension:  html
+
+blog_post:  false
+layout:     post
+filter:
+  - erb
+  - textile
+
+created_at: 2010-05-18 22:05:21 +03:00
+
+author:     Andrei Bocan
+title:      "wurbe #31"
+categories:
+  - blog
+  - intalniri
+--- 
+
+wurbe #31 poate nu a adus vara, dar macar a adus un prilej sa ne intalnim si sa bem o bere la terasa, ceea ce este comparabil, daca nu chiar mult superior.
+
+Discutiile s-au axat foarte vag in jurul temelor pe care le-am propus noi.
+
+S-a trecut de la HTML5 si CSS3 la CommonJS, prin obisnuitele razboaie intre limbaje ca sa ajunga, intr-un final apoteotic, la discursuri despre cariera, viitor, lume, si toate lucrurile profunde pe care le discuta domnii si doamnele de adanca simtire spirituala dupa un numar oarecare de bauturi.
+
+
+Asadar, dupa cum v-am obisnuit, o experienta de neuitat, voie buna, si distractie!
+
+
+Pozele, surprinse cu o maiestrie deosebita, pot fi gasite la adresele ce urmeaza
+
+* "Flickr, tagged with wurbe":http://www.flickr.com/photos/tags/wurbe
+* "Flickr, tagged with wurbe29":http://www.flickr.com/photos/tags/wurbe29
