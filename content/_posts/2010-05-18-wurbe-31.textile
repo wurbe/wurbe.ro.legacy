@@ -3,7 +3,7 @@ directory:  2010/05/18
 filename:   wurbe-31
 extension:  html
 
-blog_post:  false
+blog_post:  true
 layout:     post
 filter:
   - erb
@@ -31,4 +31,4 @@ Asadar, dupa cum v-am obisnuit, o experienta de neuitat, voie buna, si distracti
 Pozele, surprinse cu o maiestrie deosebita, pot fi gasite la adresele ce urmeaza
 
 * "Flickr, tagged with wurbe":http://www.flickr.com/photos/tags/wurbe
-* "Flickr, tagged with wurbe29":http://www.flickr.com/photos/tags/wurbe29
+* "Flickr, tagged with wurbe31":http://www.flickr.com/photos/tags/wurbe31
