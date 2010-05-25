@@ -3,7 +3,7 @@ directory:  2010/05/25
 filename:   wurbe-32-despre-viata
 extension:  html
 
-blog_post:  false
+blog_post:  true
 layout:     post
 filter:
   - erb
@@ -24,9 +24,9 @@ Dupa cum negresit ni se va aduce aminte, in cazul domnilor sau doamnelor care sa
 Imi cer scuze si sper ca soarele stralucitor, iarba verde, copacii infloriti si pasarile ciripitoare de care sunteti negresit inconjurati sa amelioreze, macar partial, amaraciunea pe care v-am pricinuit-o.
 
 
-Acestea fiind spuse, subiectului onorabilei editii numarul 32 va fi viata ca developer. Pare genul de discutie care s-ar desfasura in cadrul unei intalniri cu aspect profund bahic, si probabil ca este, dar esenta este urmatoarea: "Ce inseamna pentru tine sa fii developer ?".
+Acestea fiind spuse, subiectului onorabilei editii numarul 32 va fi viata ca developer. Pare genul de discutie care s-ar desfasura in cadrul unei intalniri cu aspect profund bahic, si probabil ca este, dar esenta este urmatoarea: "Ce inseamna pentru tine sa fii developer?".
 
-Vrei sa lucrezi pana dai de urmatorul start-up cumparat de Google si dupa sa lancezesti pe o plaja ? Vrei sa lucrezi pana cand iti vine ideea pentru propria ta afacere ? Vrei sa devii manager in superba companie multinationala X ? Vrei sa ajungi la 70 de ani cu o barba respectabila si propriul tau limbaj de programare bazat pe bilute ?
+Vrei sa lucrezi pana dai de urmatorul start-up cumparat de Google si dupa sa lancezesti pe o plaja? Vrei sa lucrezi pana cand iti vine ideea pentru propria ta afacere? Vrei sa devii manager in superba companie multinationala X? Vrei sa ajungi la 70 de ani cu o barba respectabila si propriul tau limbaj de programare bazat pe bilute?
 
 
 Asadar, in caz ca aveti chef de discutii tehnice dar fara o aplicabilitate imediata, va asteptam pe 27 ale lunii Mai, incepand cu orele 18:00, pe terasa foarte primitoare a localului "Pe Baricade":http://www.pebaricade.ro/ ("harta":http://metropotam.ro/Cluburi/loc0817741456-La-Baricade/).
