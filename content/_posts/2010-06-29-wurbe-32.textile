@@ -1,0 +1,32 @@
+--- 
+directory:  2010/06/29
+filename:   wurbe-32
+extension:  html
+
+blog_post:  true
+layout:     post
+filter:
+  - erb
+  - textile
+
+created_at: 2010-06-29 10:06:02 +03:00
+
+author:     Andrei Bocan
+title:      "wurbe #32"
+categories:
+  - blog
+  - intalniri
+--- 
+
+wurbe #32 a avut parte de vreme buna si bere rece, ceea ce va dorim si dumneavoastra in continuare.
+
+Dupa ce am stabilit cu precizia si viteza caracteristica ce inseamna de fapt sa fii developer, si ca oamenii care nu sunt de acord cu noi sunt, prin definitie, foarte ciudati, discutiile au fost deturnate spre noSQL si paradigme de programare.
+
+
+Pastrati frecventa pentru informatii cu privire la editia wurbe de luna asta, si urmatoarea editie de wurbe cu prezentari care va fi, ca de obicei, delicioasa ca o tarta.
+
+
+Daca sunteti interesati cam cum arata un wurbe si ce se intampla, puteti sa veniti la urmatoarea editie sau puteti sa vedeti pe urmatorii pixeli:
+
+* "Flickr, tagged with wurbe":http://www.flickr.com/photos/tags/wurbe
+* "Flickr, tagged with wurbe32":http://www.flickr.com/photos/tags/wurbe32
