@@ -1,0 +1,28 @@
+--- 
+directory:  2010/09/28
+filename:   wurbe-33
+extension:  html
+
+blog_post:  true
+layout:     post
+filter:
+  - erb
+  - textile
+
+created_at: 2010-09-28 19:09:19 +03:00
+
+author:     Andrei Bocan
+title:      "wurbe #33"
+categories:
+  - blog
+  - intalniri
+--- 
+
+Ca niste adevarati regi ai electronilor, la wurbe #33 am venit, am baut, si am discutat.
+
+Tara a fost pusa strict la cale, si am stabilit faptul ca editia #36, dat fiind caracterul ei jubiliar, nu va avea o tema fixa, ci va fi, ca un joc de bingo jucat cu octogenari, o surpriza continua.
+
+Pentru imagini spumoase si necenzurate de la intalnirile noastre, puteti efectua click, poc, sau hop pe urmatoarele elemente grafice de interfata:
+
+* "Flickr, tagged with wurbe":http://www.flickr.com/photos/tags/wurbe
+* "Flickr, tagged with wurbe33":http://www.flickr.com/photos/tags/wurbe33
