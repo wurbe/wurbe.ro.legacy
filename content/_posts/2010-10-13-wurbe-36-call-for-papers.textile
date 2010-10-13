@@ -1,0 +1,28 @@
+--- 
+directory:  2010/10/13
+filename:   wurbe-36-call-for-papers
+extension:  html
+
+blog_post:  true
+layout:     post
+filter:
+  - erb
+  - textile
+
+created_at: 2010-10-13 20:20:30 +01:00
+author:     Andrei Maxim
+
+title:      "wurbe #36 - call for papers"
+categories:
+  - blog
+---
+Mai are putin si trece anul, iar noi n-am avut inca ocazia sa vorbim intr-un cadru mai oficial despre ce diverse subiecte mai mult sau mai putin legate de web. Cu editia #36 dorim sa reparam aceasta greseala de natura organizatorica :-).
+
+Spre diferenta de editiile anterioare, ne-am hotarat sa nu impunem o tema anume, pentru simplul motiv ca s-au intamplat destul de multe lucruri in acest an si, ca sa recuperam, vrem sa acoperim o plaja cat mai mare de subiecte. Deci daca vrei sa vorbesti despre un anumit subiect colegilor tai de breasla, aceasta e sansa ta! Sunt doar doua conditii:
+
+* prezentarea trebuie sa fie de *minim 10 minute* si *maxim 30 de minute*
+* trebuie sa fie un subiect care sa te pasioneze cu adevarat
+
+In cazul in care ai vreo idee, te rugam sa o adaugi pe "pagina de call for papers":http://123.writeboard.com/w6dlga3cryezj758 (parola este "wurbe"), conform exemplului. Data limita pentru propuneri e 3 noiembrie, lista finala de prezentari urmand sa se anunte pe 6 noiembrie, urmand ca intalnirea propriu-zisa sa fie plasata undeva spre sfarsitul saptamanii 15-21 noiembrie.
+
+Spor la propuneri!
