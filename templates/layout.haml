@@ -40,7 +40,7 @@
           .boxy.tall.minor
             %h3 Intalniri
             %ul
-              - @meets.each do |meet|
+              - @meets.reverse.each do |meet|
                 %li
                   = link_to meet[:title], meet[:url]
                   %em== (#{meet[:happened_on]})
