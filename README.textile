@@ -1,9 +1,11 @@
 h1. wurbe.ro
 
-This is the source for "wurbe.ro":http://wurbe.ro. Running on webby.
+This is the source for "wurbe.ro":http://wurbe.ro. Running on evilchelu/fluffy_barbarian.
 
-  webby blog:post "wurbe #XX" # or just copy an existing file
-  webby blog:create_indexes && webby autobuild --trace
-  webby blog:create_indexes && webby build --trace
+The relevant people have been added as collaborators on heroku. You need to:
 
-After you're done posting, just push back to the repo. Updating is done automagically, on the hour.
+git remote add git@heroku.com:wurbe.git heroku
+
+After you're done posting:
+
+git push && git push heroku master
