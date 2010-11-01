@@ -2,10 +2,12 @@ h1. wurbe.ro
 
 This is the source for "wurbe.ro":http://wurbe.ro. Running on evilchelu/fluffy_barbarian.
 
-The relevant people have been added as collaborators on heroku. You need to:
+For development use passenger.
+
+The relevant people have been added as collaborators on heroku. To deploy you need to:
 
 git remote add git@heroku.com:wurbe.git heroku
 
-After you're done posting:
+After you're done writing and testing locally:
 
 git push && git push heroku master
