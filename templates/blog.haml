@@ -1,0 +1,14 @@
+- @posts.reverse[0..4].each do |post|
+  .article
+    %h2.title= link_to post[:title], post[:url]
+    %p.meta
+      scris de
+      = post[:author]
+      pe
+      = post[:written_on]
+    .body
+      = post[:content]
+
+%hr
+  Vezi toate posturile in
+  = link_to "arhiva", "/archives"

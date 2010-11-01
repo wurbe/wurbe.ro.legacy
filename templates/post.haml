@@ -1,0 +1,26 @@
+.article
+  %h2.title= link_to @post[:title], @post[:url]
+  %p.meta
+    scris de
+    = @post[:author]
+    pe
+    = @post[:written_on]
+  .body
+    = @post[:content]
+  .footer
+    - if @post[:categories] && !@post[:categories].empty?
+      %h4.meta in:
+      %p= @post[:categories].join(", ")
+    - if @post[:tags] && !@post[:tags].empty?
+      %h4.meta tag-uri:
+      %p= @post[:tags].join(", ")
+
+  #disqus_thread
+  %script{ :type => "text/javascript", :src => "http://disqus.com/forums/wurbe/embed.js" }
+  %noscript
+    %a{ :href => "http://wurbe.disqus.com/?url=ref" }
+      View the discussion thread.
+  %a.dsq-brlink{ :href => "http://disqus.com" }
+    blog comments powered by
+    %span.logo-disqus
+      Disqus

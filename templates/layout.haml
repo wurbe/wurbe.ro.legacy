@@ -1,18 +1,10 @@
----
-extension: html
-filter:
-  - erb
-  - haml
----
 !!!
-- global_feed = "http://feeds.feedburner.com/wurbedotro"
-- global_comments_feed = "http://feeds.feedburner.com/wurbedotro_comments"
 %html{ :xmlns => "http://www.w3.org/1999/xhtml" }
   %head
     %meta{ 'http-equiv' => 'Content-Type', :content => 'text/html; charset=UTF-8' }
-    %title== wurbe#{" - #{@page.title}" if @page.title && !@page.title.to_s.empty?}
+    %title= @title
 
-    %link{ :title => 'wurbe feed', :href => global_feed, :type => 'application/atom+xml', :rel => 'alternate' }
+    %link{ :title => 'wurbe feed', :href => @settings[:feed], :type => 'application/atom+xml', :rel => 'alternate' }
 
     %link{ :href => '/stylesheets/base.css', :media => 'screen', :type => 'text/css', :rel => 'stylesheet' }
     /[if IE]
@@ -27,56 +19,40 @@ filter:
       #header.clearfix
         #title.clearfix
           %h1= link_to "wurbe", "/"
-        %h2
-          Sections
+        %h2 Sections
         %ul#menu
-          %li{ :class => (@page.url == "/" ? "selected" : "")}
+          %li{ :class => (@slug == "/" ? "selected" : "")}
             = link_to "home", "/"
           - %w(despre blog intalniri).each do |menu_item|
-            %li{ :class => (File.basename(@page.filename) == menu_item ? "selected" : "")}
+            %li{ :class => (@slug == menu_item ? "selected" : "")}
               = link_to menu_item, "/#{menu_item}"
       #contentwrapper.clearfix
         #content
           #innerwrapper
-            = @content
+            = yield
+
         #sidebar
           .boxy.short
             %h3 Despre
             %p== wurbe (web urbe) este grupul dezvoltatorilor web din bucuresti. Citeste mai multe detalii #{link_to "despre noi", "/despre"}.
             %p#subscribe
-              %a.feed{ :href => global_feed } articles feed
+              %a.feed{ :href => @settings[:feed] } articles feed
           .boxy.tall.minor
             %h3 Intalniri
-            - meets = @pages.find(:all, :in_directory => "/", :recursive => true, :sort_by => "created_at", :reverse => true) { |p| p.title =~ /^wurbe #\d+$/ && p.blog_post }
             %ul
-              - meets.each do |post|
+              - @meets.each do |meet|
                 %li
-                  = link_to_page(post)
-                  %em== (#{post.created_at.strftime('%Y-%m-%d')})
-
-          .boxy.tall.minor
-            %h3 Arhiva
-            - all_posts = @pages.find(:all, :in_directory => "/", :recursive => true, :sort_by => "created_at", :reverse => true, :blog_post => true)
-            - all_posts.delete(@page)
-
-            - if all_posts.empty?
-              %p No posts
-            - else
-              %ul
-                - all_posts.group_by{|p| p.created_at.strftime('%Y')}.each do |year, year_posts|
-                  - year_posts.group_by{|p| p.created_at.strftime('%B')}.each do |month, posts|
-                    %li
-                      = link_to "#{month} #{year}", "/#{year}/#{posts.first.created_at.strftime('%m')}"
-                      %em== (#{posts.length})
+                  = link_to meet[:title], meet[:url]
+                  %em== (#{meet[:happened_on]})
 
           .boxy.short
             %h3 Organizatori
             %ul
-              %li= link_to "Cristi Balan", "http://evil.che.lu/" 
-              %li= link_to "Viorel Cojocaru", "http://beanon.com/" 
-              %li= link_to "Andrei Bocan", "http://spinach.andascarygoat.com/" 
-              %li= link_to "Andrei Maxim", "http://andreimaxim.ro/" 
-              %li= link_to "Aurelian Oancea", "http://locknet.ro/" 
+              %li= link_to "Cristi Balan", "http://evil.che.lu/"
+              %li= link_to "Viorel Cojocaru", "http://beanon.com/"
+              %li= link_to "Andrei Bocan", "http://spinach.andascarygoat.com/"
+              %li= link_to "Andrei Maxim", "http://andreimaxim.ro/"
+              %li= link_to "Aurelian Oancea", "http://locknet.ro/"
 
       #options
         %h2
@@ -128,7 +104,8 @@ filter:
           Copyright &copy; 2007, wurbe.
           == Valid #{link_to("XHTML", "http://evil.che.lu/projects/skittlish")} and #{link_to("CSS", "http://jigsaw.w3.org/css-validator/check/referer")}.
         %p== Using #{link_to("skittlish", "http://evil.che.lu/projects/skittlish")} on #{link_to("webby", "http://webby.rubyforge.org/")}.
-    %script{ :src => "http://www.google-analytics.com/urchin.js", :type => "text/javascript" }
-    %script{ :type => "text/javascript" }
-      _uacct = "UA-563854-3";
-      urchinTracker();
+    - if production?
+      %script{ :src => "http://www.google-analytics.com/urchin.js", :type => "text/javascript" }
+      %script{ :type => "text/javascript" }
+        _uacct = "UA-563854-3";
+        urchinTracker();
