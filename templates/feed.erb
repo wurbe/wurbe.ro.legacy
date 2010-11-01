@@ -18,7 +18,7 @@
       <author>
         <name><%=h post[:author]  %></name>
       </author>
-      <id>tag:<%= "#{@settings[:host]},#{post[:happened_on]}:#{post[:url]}" %></id>
+      <id>tag:<%= "#{@settings[:host]},#{post[:atomdate]}:#{post[:url]}" %></id>
       <updated><%= post[:updated_on] %></updated>
       <content type="html"><%= h(post[:content]) %></content>
     </entry>
