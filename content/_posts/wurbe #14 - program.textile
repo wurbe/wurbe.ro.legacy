@@ -1,0 +1,37 @@
+Pentru wurbe #14 s-au inscris 70 de persoane si avem anuntate 6 prezentari despre javascript & friends.
+
+Adresa este *Anchor Plaza, Bd. Timisoara, nr. 26Z, et. 9*. Este cladirea de langa Plaza Romania. Se poate ajunge acolo cu:
+
+* metroul pana la Armata Poporului, se ia de la eroilor
+* tramvaiul 41 statia lujerului sau timisoara
+* autobuzul 336 de pe iuliu maniu
+* autobuzul 137 sau tramvaiul 25 de pe bd. timisoara
+
+Nu trebuie printat mail-ul de la eventbrite, cei de la securitate vor avea lista cu numele participantilor. Accesul in cladire este permis pe baza actului de identitate, incepand cu ora 17. Va rog sa ajungeti cel tarziu la 17:30 pentru a nu intarzia prezentarile.
+
+h3. Papica
+
+Luni vom comanda 20 de pizza pentru care vom face cheta (avem deja 87 ron ramasi de data trecuta).
+
+h3. Poze
+
+Presupun ca lumea planuieste sa povesteasca despre wurbe nepotilor. Asa ca, daca vrei sa fii un "JDD":http://flickr.com/photos/x180/ autohton, adauga tagurile wurbe si wurbe14 la pozele de pe flickr, picasa sau alte site-uri. Asta e sansa ta :).
+
+* "Flickr stream pentru wurbe":http://www.flickr.com/photos/tags/wurbe
+* "Flickr stream pentru wurbe14":http://www.flickr.com/photos/tags/wurbe14
+* "Picasaweb search":http://picasaweb.google.com/lh/searchbrowse?q=wurbe
+
+h3. Program
+
+Prezentatorii sunt rugati sa isi planifice timpul astfel incat sa se incadreze in 15-20 de minute + 5 minute intrebari. Spre deosebire de alte dati, acum chiar vom fi rai si vom aplica regula.
+
+* 17:30-18:00 Adunarea oamenilor si gasirea de scaune :)
+* 18:00-18:30 *Cristi Balan* - javascript everywhere
+* 18:30-19:00 *Razvan Caliman* - cross-domain AJAX. The works
+* 19:00-19:30 pizza!
+* 19:30-20:00 *Andrei Gheorghe* - Implementari eficiente JavaScript - V8, TraceMonkey
+* 20:00-20:30 *Andrei Bocan* - Unobtrusive javascript
+* 20:30-21:00 pauza
+* 21:00-21:30 *Alexandru Badiu* - Programare functionala in Javascript
+* 21:30-22:00 *Givan Ziadin* - Debugging and profiling javascript
+* 22:00-03:00 pauza, fussball, etc

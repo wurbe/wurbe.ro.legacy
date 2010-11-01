@@ -1,0 +1,7 @@
+Începutul de an îl sărbătorim cu o ediţie un pic mai hard-core. Astfel, *joi, 28 ianuarie*, începând cu ora 18, ne întâlnim în "S.A.L.T.":http://metropotam.ro/Cluburi/loc4898674228-SALT-Pub/ în speranţa că vom discuta despre:
+
+* event-driven programming
+* event-driven I/O sau networking (EventMachine şi node.js, respectiv Twisted)
+* posibile aplicaţii în proiectele curente
+
+Ca de obicei, prezenţa se confirmă via formularul de comentarii.

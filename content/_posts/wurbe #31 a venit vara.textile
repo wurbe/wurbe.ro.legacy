@@ -1,0 +1,13 @@
+.. nu chiar, dar ne pregatim, joi 29 aprilie de la 18:00 ne mutam "Pe Baricade":http://www.pebaricade.ro/ ("harta":http://metropotam.ro/Cluburi/loc0817741456-La-Baricade/)
+
+
+h3. Plan general al subiectelor de discutie
+
+* HTML5/CSS3
+* suc/bere
+* privacy
+* suc/bere
+* Twitter Annotations
+* bacsis
+
+Daca vii, adauga un comentariu ca sa stim cat de mult o sa trebuiasca sa scalam mesele.

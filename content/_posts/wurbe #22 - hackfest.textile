@@ -1,0 +1,22 @@
+In mod absolut natural si tinand cont de misticismul numarului 19, wurbe #22 va avea in principal aceeasi tematica pe care a avut-o si "wurbe #3":http://wurbe.ro/2007/11/06/wurbe-3, respectiv un hackfest.
+
+In concordanta cu valoarea wurbe, infinit mai mare decat cea de atunci, hackfest-ul de acum va fi infinit mai mare decat cel de atunci: *pe 4 iulie*, la "Adobe Romania":http://myadobe.ro de la 10 AM la 10 PM, un recital maraton din partea poetilor in cod de toate varstele.
+
+h3. Detalii organizatorice
+
+Regulile sunt relativ simple, si vor fi marcate in ceea ce urmeaza de buline negre.
+
+* *Echipele trebuie sa contina minim 2 oameni si maxim 4*. Daca vii sa stai singur in fata monitorului, nu inveti nimic. Idem daca vii cu toata firma dupa tine. Ideea e sa iti gasesti oameni noi cu care sa nu lucrezi in fiecare zi si sa furi ceva din interactia cu ei.
+* *Sursele trebuie sa fie publice*. Vrem sa vedem jucaria ta, vrem sa putem sa ne jucam si noi cu ea. Plus, totdeauna e bine sa folosesti o forma de source control. Daca folosesti svn, poti sa folosesti "Google Code":http://code.google.com/hosting/, daca esti pe git, "Github":http://github.com/.
+* *Fara aplicatii scrise de dinainte*. 
+* *Fiecare om vine cu laptop-ul*. 
+
+Daca ai deja echipa pregatita, poti sa iti scrijelesti numele echipei, proiectul si componenta pe "writeboard":http://123.writeboard.com/2176d533d14fa47c4/ ( parola e *wurbe* ).
+
+Daca esti inca o floare singura si delicata si nu ai cu cine sa-ti imparti magia, acelasi "writeboard":http://123.writeboard.com/2176d533d14fa47c4/ ( parola e tot *wurbe*, serios ) iti va servi in a gasi un partener pe seama maretiei tale.
+
+Desi evenimentul tine de la 10 AM la 10 PM, nu e neaparat necesar sa stai toate cele 12 ore. Vii cand vrei, pleci cand vrei, important este sa ai: *un repository public* si *un prelungitor*.
+
+Dupa cum stim toti, in viata totdeauna e bine sa ai la tine un prosop si un prelungitor, pentru ca nu stii niciodata ce o sa se intample. Sau ok, acum stii ce o sa se intample, asa ca *adu un prelungitor*.
+
+In rest, vor fi mai multe detalii pe masura ce se apropie evenimentul.

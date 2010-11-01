@@ -1,0 +1,29 @@
+Din pacate, n-am fost prea priceputi in ale organizarii si ne-am trezit cu prea multe prezentari si prea putin timp pentru ele. A fost si prea putin timp pentru a putea organiza ceva pentru alegerea celor care vor intra in program. Asa ca am incercat sa facem loc pentru cat mai multe persoane, sau sa modificam unele prezentari in lightning talks.
+
+Pentru ca wurbe nu este orientata spre o singura tehnologie am incercat sa alegem prezentari cat mai variate. Propunerile au fost excelente si a fost cam greu sa decidem pe care sa le folosim. Totusi, aproape toate au intrat in program.
+
+h3. Programul
+
+* 17:00 - 17:50 Adunarea oamenilor si gasirea de scaune :)
+* 17.50 - 18.00 Introducere
+* 18.00-18.30 *Andrei Maxim* - "Identitate pe web": No more username and passwords? Despre OpenId, InfoCard, etc.
+* 18.30-19.00 *Savu Andrei* - "Session protect" : metode de protejare a sesiunii ( prevent session hijacking )
+* 19:00-19:30 *Cristi Balan* - "CSS Bits": metode de dezvoltare css rapida si fara dureri de cap
+* 19.30 - 20.00 Pauza: pizza si suc din partea gazdei noastre minunate, Adobe Romania :)
+* 20.00-20.30 *Dragos Ionita* - "Adobe Flash": despre o strategie de optimizare a continutului pentru motoare de cautare
+* 20.30-21.00 *Justin Kadima* - "MonoRail" : alternativa tip Rails pentru dezvoltatorii web in .NET
+* 21.00 - 21.30 Pauza
+* 21.30 - 22.30 Lightning talks - a
+** *Sorin Mocanu* - Flex sau OpenLaszlo: cum alegi?
+** *Sorin Sbarnea* - GTD cu Thunderbird
+** *Dragos Ionita* - PHP __autoload()... si cum am incetat sa folosesc include()
+** *Alex Brie* - Ruby on Rails mini-recipes: some code snippets to save the day
+** *Aurelian Oancea* - "RFSDS (really f#cking simple deploy system)" :5-10 minute
+** *Adrian Tanase* - "SEO with Google Search Appliance (GSA)" : how Iâ€™ve used white hat SEO techniques to go around limitations of GSA and influence the relevance of search results.
+** *Viorel Cojocaru* - "Blogging semantically": semantic markup, microformats, accessibility for blogs
+** *Cristi Balan* - giston, track svn repositores in git. similar to piston
+* 22:30 - X open mic :)
+
+h3. Rugaminte
+
+Va rog sa incercati sa ajungeti cat mai devreme pentru a avea destul timp pentru gasirea de scaune, o mica orientare si alte chestii la care sigur nu ne-am gandit.

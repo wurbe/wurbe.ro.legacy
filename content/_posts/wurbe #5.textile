@@ -1,0 +1,26 @@
+Wurbe #5 a avut loc, pe 21 ianuarie 2008, intre 18:00 si 22:45, la sediul "Adobe Romania":http://myadobe.ro/. Au fost cam 50 de participanti, 7 prezentari de vreo 30 de minute si multe depasiri alte timpului alocat :).
+
+Multumiri, din nou, celor de la Adobe pentru sala, pizza, bere, suc, proiector, badge-uri, rabdare si ajutor :).
+
+h3. Prezentari
+
+* *Octavian Costache* - Practical benefits of unittesting, examples, how unittesting will improve your sex life (but mainly your code) - "pdf":http://wurbe.ro/assets/2008/1/23/wurbe__5_-_Octavian_Costache.pdf
+* *Cosmin Lehene* - TDD, mocking and why you need coverage to really cover your ass - "pdf":http://wurbe.ro/assets/2008/1/23/wurbe__5_-_Cosmin_Lehene.pdf
+* *Adrian Spinei* - Tales from the dark side: browser controller testing for webapps in Windows environment - "pdf":http://wurbe.ro/assets/2008/1/23/wurbe__5_-_Adrian_Spinei.pdf
+* *Mihai Bulhac* - O scurta prezentare despre WATIR (Web App Testing in Ruby) si AutoIt (Windows GUI automation)
+* *Bogdan Roman* - # Custom Web Test Framework peste Selenium RC cu java.awt.Robot: concept, demo, pros & cons - "pdf":http://wurbe.ro/assets/2008/1/23/wurbe__5_-_Bogdan_Roman.pdf
+* *Cristi Balan* - BDD in ruby with RSpec - "pdf":http://wurbe.ro/assets/2008/1/23/wurbe__5_-_Cristi_Balan.pdf
+* *Sergiu Truta* - RSpec Stories - "ppt":http://wurbe.ro/assets/2008/1/23/wurbe__5_-_Sergiu_Truta.ppt
+
+h3. Reactii
+
+* "Mihai Marian Dumitrache":http://www.takemyview.com/blog/?p=81
+* "Andrei Baragan":http://andlei.blogspot.com/2008/01/wurbe-5.html
+* "Andrei Gheorghe":http://hardcode.ro/archive/2008/01/22/wurbe-5.aspx
+* "Paul ?":http://paul.balaur.com/blog/2008/wurbe-5/
+* "Cosmin Lehene, myAdobe":http://myadobe.ro/2008/01/23/dd-fail-wurbe5/
+
+h3. Poze
+
+* "Flickr, tagged with wurbe":http://www.flickr.com/photos/tags/wurbe
+* "Picasaweb, tagged with wurbe":http://picasaweb.google.com/lh/searchbrowse?q=wurbe

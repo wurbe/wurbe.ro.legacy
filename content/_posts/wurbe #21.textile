@@ -1,0 +1,19 @@
+Wurbe #21 a avut loc pe 21 mai, in "Pe Baricade":http://www.pebaricade.ro/. Grupul a fost relativ restrans, de maxim 15 oameni.
+
+A surprins numarul ridicat de discutii pe baza diverselor solutii si proiecte, semn ca in momente de criza dezvoltatorii web tind sa devina mai creativi (si cu aceasta ocazie comitetul editorial Wurbe le ureaza mult succes).
+
+Alte cateva subiecte abordate:
+
+* aplicatii pentru telefoane mobile
+* content filtering si copyrighting
+* integrarea documentelor in solutii web
+* idei pentru Wurbe #22
+* case-study InfoQ
+* monetizare
+* freelancing
+* alte cateva subiecte care au scapat urechilor noastre agile
+
+h3. Poze
+
+* "Flickr, tagged with wurbe":http://www.flickr.com/photos/tags/wurbe
+* "Flickr, tagged with wurbe21":http://www.flickr.com/photos/tags/wurbe21

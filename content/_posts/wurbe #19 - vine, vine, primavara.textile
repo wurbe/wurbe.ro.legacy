@@ -1,0 +1,18 @@
+Bere si poate continuarea discutiilor despre vim, emacs, ~/bin & friends.
+
+h3. Data si locatie
+
+Marti, 24 martie 2009, incepand cu ora 18.00, "S.A.L.T.":http://saltpub.ro/.
+
+h3. Organizare
+
+Daca vrei sa vii, adauga un comentariu ca sa stim cate locuri sa rezervam.
+
+h3. Idei de subiecte de discutie
+
+* bere/cico/cafea
+* vim
+* emacs
+* vimfu
+* bere/cico/cafea
+* stuff, lots of stuff

@@ -1,0 +1,45 @@
+Wurbe #25 - nosql va avea loc marti, 27 octombrie, incepand cu ora 18:00.
+
+S-au inscris 64 de persoane si vom avea 5 prezentari si cel putin un lightning talk.
+
+Adresa este *Anchor Plaza, Bd. Timisoara, nr. 26Z, et. 9*. Este cladirea de birouri de langa Plaza Romania. Se poate ajunge acolo cu:
+
+* metroul pana la Lujerului (Armata Poporului), se ia de la Eroilor sau Piata Unirii 2
+* tramvaiul 41 de la Casa Presei Libere sau Drumul Taberei pana la statia Timisoara
+* autobuzul 336 de la Universitate pana la statia Lujerului
+* autobuzul 137 sau tramvaiul 25, pana la Bd. Timisoara
+
+Va rugam sa incercati sa folositi metroul, pentru ca de fiecare data a trebuit sa incepem cu vreo 30 de minute intarziere din cauza oamenilor blocati in trafic.
+
+Nu trebuie printat mail-ul de la EventBrite, cei de la securitate vor avea lista cu numele participantilor. Accesul in cladire este permis pe baza actului de identitate, incepand cu ora 17:30. Va rog sa incercati sa ajungeti la timp pentru a nu intarzia prezentarile.
+
+h3. Papica
+
+Vom comanda cam 20 de pizza pentru care vom face cheta. Apa, suc vom primi de la Adobe. <3
+
+h3. Poze
+
+Presupun ca lumea planuieste sa povesteasca despre wurbe nepotilor. Asa ca, daca vrei sa fii un "JDD":http://flickr.com/photos/x180/ autohton, adauga tagurile wurbe si wurbe25 la pozele de pe Flickr, Picasa sau alte site-uri. Asta e sansa ta :).
+
+* "Flickr stream pentru wurbe":http://www.flickr.com/photos/tags/wurbe
+* "Flickr stream pentru wurbe25":http://www.flickr.com/photos/tags/wurbe25
+* "Picasaweb search":http://picasaweb.google.com/lh/searchbrowse?q=wurbe
+
+h3. Program
+
+Prezentatorii sunt rugati sa isi planifice timpul astfel incat sa se incadreze in 20 de minute + 5 minute pentru intrebari.
+
+* 17:30-18:00 Adunarea oamenilor si gasirea de scaune :)
+* 18:00-18:30 *Cristi Balan* - introducere
+* 18:30-19:00 *Andrei Dragomir* - Distributed systems concepts
+
+* 19:00-19:30 pizza!
+
+* 19:30-20:00 *Vlad Posea* - Semantic repositories
+* 20:30-21:00 *Alex Morega* - Baze de date obiectuale în Python
+
+* 21:00-21:15 pauza
+
+* 21:15-21:45 *Cosmin Lehene* - HBase
+* 21:45-22:15 *Andrei Savu* - Hbase powered feed aggregator
+* 22:15-22:30 *Andrei Gheorghe* - Facebook Data Store (lightning talk)

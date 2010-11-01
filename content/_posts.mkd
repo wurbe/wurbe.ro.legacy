@@ -1,0 +1,572 @@
+# wurbe #0
+  2007-08-23, 2007-08-23
+  atom-date: 2007-08-23T12:51:00+02:00
+  author: evilchelu
+  categories: blog, intalniri
+
+# avem nume
+  2007-08-27, 2007-08-27
+  atom-date: 2007-08-27T23:19:00+02:00
+  author: evilchelu
+  categories: blog
+
+# wurbe #1 - plan de atac
+  2007-08-29, 2007-08-29
+  atom-date: 2007-08-29T10:27:00+02:00
+  author: evilchelu
+  categories: blog
+
+# hua ici
+  2007-08-31, 2007-08-31
+  atom-date: 2007-08-31T11:53:00+02:00
+  author: evilchelu
+  categories: blog
+
+# pfuu, se pare ca n-avem nume
+  2007-08-31, 2007-08-31
+  atom-date: 2007-08-31T19:26:00+02:00
+  author: evilchelu
+  categories: blog
+
+# wurbe #1
+  2007-09-06, 2007-09-06
+  atom-date: 2007-09-06T08:21:00+02:00
+  author: evilchelu
+  categories: blog, intalniri
+
+# moar name
+  2007-09-07, 2007-09-07
+  atom-date: 2007-09-07T15:10:00+02:00
+  author: evilchelu
+  categories: blog
+
+# wurbe #2 - locatie si rfp
+  2007-09-11, 2007-09-11
+  atom-date: 2007-09-11T14:44:00+02:00
+  author: evilchelu
+  categories: blog
+
+# inscrierile pentru wurbe #2 s-au terminat
+  2007-09-27, 2007-09-27
+  atom-date: 2007-09-27T08:06:00+02:00
+  author: evilchelu
+  categories: blog
+
+# wurbe #2 - program
+  2007-09-28, 2007-09-28
+  atom-date: 2007-09-28T16:47:00+02:00
+  author: evilchelu
+  categories: blog
+
+# wurbe #2 - ultimele detalii
+  2007-10-01, 2007-10-01
+  atom-date: 2007-10-01T11:39:00+02:00
+  author: evilchelu
+  categories: blog
+
+# wurbe #2
+  2007-10-04, 2007-10-04
+  atom-date: 2007-10-04T15:00:00+02:00
+  author: aurelian
+  categories: blog, intalniri
+
+# wurbe #3 - propunere
+  2007-10-22, 2007-10-22
+  atom-date: 2007-10-22T16:25:00+02:00
+  author: evilchelu
+  categories: blog
+
+# wurbe #3 - plan
+  2007-10-30, 2007-10-30
+  atom-date: 2007-10-30T13:25:00+01:00
+  author: evilchelu
+  categories: blog
+
+# wurbe #3 - tonite
+  2007-11-05, 2007-11-05
+  atom-date: 2007-11-05T13:26:00+01:00
+  author: evilchelu
+  categories: blog
+
+# wurbe #3
+  2007-11-06, 2007-11-06
+  atom-date: 2007-11-06T11:07:00+01:00
+  author: evilchelu
+  categories: blog, intalniri
+
+# wurbe #4 - plan
+  2007-11-26, 2007-11-26
+  atom-date: 2007-11-26T15:21:00+01:00
+  author: evilchelu
+  categories: blog
+
+# wurbe #4 - topics
+  2007-12-09, 2007-12-09
+  atom-date: 2007-12-09T14:00:00+01:00
+  author: aurelian
+  categories: blog
+
+# wurbe #4
+  2007-12-12, 2007-12-12
+  atom-date: 2007-12-12T11:01:00+01:00
+  author: vio
+  categories: blog, intalniri
+
+# wurbe #5 - testing 101
+  2008-01-07, 2008-01-07
+  atom-date: 2008-01-07T16:21:00+01:00
+  author: evilchelu
+  categories: blog
+
+# wurbe #5 - locatie si organizare
+  2008-01-11, 2008-01-11
+  atom-date: 2008-01-11T16:46:00+01:00
+  author: evilchelu
+  categories: blog
+
+# wurbe #5 - program si ultimele detalii
+  2008-01-21, 2008-01-21
+  atom-date: 2008-01-21T13:20:00+01:00
+  author: evilchelu
+  categories: blog
+
+# wurbe #5
+  2008-01-23, 2008-01-23
+  atom-date: 2008-01-23T15:45:00+01:00
+  author: evilchelu
+  categories: blog, intalniri
+
+# wurbe #6 - can has beer
+  2008-02-11, 2008-02-11
+  atom-date: 2008-02-11T12:01:00+01:00
+  author: evilchelu
+  categories: blog
+
+# wurbe #6
+  2008-02-28, 2008-02-28
+  atom-date: 2008-02-28T12:16:00+01:00
+  author: evilchelu
+  categories: blog, intalniri
+
+# wurbe #7 - call for papers
+  2008-02-28, 2008-02-28
+  atom-date: 2008-02-28T14:00:00+01:00
+  author: evilchelu
+  categories: blog
+
+# wurbe #7 - inscrieri si prezentari
+  2008-03-05, 2008-03-05
+  atom-date: 2008-03-05T13:21:00+01:00
+  author: evilchelu
+  categories: blog, home
+
+# wurbe #7 - program
+  2008-03-17, 2008-03-17
+  atom-date: 2008-03-17T09:34:00+01:00
+  author: vio
+  categories: blog
+
+# wurbe #7
+  2008-03-18, 2008-03-18
+  atom-date: 2008-03-18T14:02:00+01:00
+  author: evilchelu
+  categories: blog, intalniri
+
+# wurbe #8 - plan de bataie
+  2008-04-08, 2008-04-08
+  atom-date: 2008-04-08T17:35:00+02:00
+  author: xhr
+  categories: blog
+
+# wurbe #8
+  2008-04-17, 2008-04-17
+  atom-date: 2008-04-17T08:32:00+02:00
+  author: evilchelu
+  categories: blog, intalniri
+
+# wurbe #9 - plan
+  2008-05-06, 2008-05-06
+  atom-date: 2008-05-06T21:22:00+02:00
+  author: vio
+  categories: blog
+
+# wurbe #10 - la meci!
+  2008-05-28, 2008-05-28
+  atom-date: 2008-05-28T16:10:00+02:00
+  author: xhr
+  categories: blog
+
+# wurbe #9
+  2008-05-28, 2008-05-28
+  atom-date: 2008-05-28T15:43:00+02:00
+  author: evilchelu
+  categories: blog, intalniri
+
+# wurbe #10 - allez les ....
+  2008-06-07, 2008-06-07
+  atom-date: 2008-06-07T11:34:00+02:00
+  author: vio
+  categories: blog
+
+# wurbe #10 - allez les ... reloaded
+  2008-06-09, 2008-06-09
+  atom-date: 2008-06-09T10:08:00+02:00
+  slug: wurbe-10-allez-les-partea-a-2-a
+  author: vio
+  categories: blog
+
+# wurbe #10
+  2008-06-30, 2008-06-30
+  atom-date: 2008-06-30T14:52:00+02:00
+  author: evilchelu
+  categories: blog, intalniri
+
+# wurbe #11 - more beer
+  2008-07-10, 2008-07-10
+  atom-date: 2008-07-10T10:36:00+02:00
+  author: evilchelu
+  categories: blog
+
+# wurbe #11
+  2008-08-05, 2008-08-05
+  atom-date: 2008-08-05T20:24:00+02:00
+  author: evilchelu
+  categories: blog, intalniri
+
+# wurbe #12 - less beer more coffee
+  2008-08-05, 2008-08-05
+  atom-date: 2008-08-05T20:29:00+02:00
+  author: vio
+  categories: blog
+
+# wurbe #12
+  2008-09-02, 2008-09-02
+  atom-date: 2008-09-02T22:30:00+02:00
+  author: vio
+  categories: blog, intalniri
+
+# wurbe #13 - prima editie de toamna
+  2008-09-02, 2008-09-02
+  atom-date: 2008-09-02T22:31:00+02:00
+  author: vio
+  categories: blog
+
+# wurbe #13
+  2008-09-16, 2008-09-16
+  atom-date: 2008-09-16T07:15:00+02:00
+  author: evilchelu
+  categories: blog, intalniri
+
+# wurbe #14 - call for papers
+  2008-09-16, 2008-09-16
+  atom-date: 2008-09-16T12:01:00+02:00
+  author: evilchelu
+  categories: blog
+
+# wurbe #14 - program
+  2008-10-02, 2008-10-02
+  atom-date: 2008-10-02T19:11:00+02:00
+  author: evilchelu
+  categories: blog
+
+# wurbe #14 - ultimele detalii
+  2008-10-06, 2008-10-06
+  atom-date: 2008-10-06T08:29:00+02:00
+  author: evilchelu
+  categories: blog, home
+
+# wurbe #14
+  2008-10-10, 2008-10-10
+  atom-date: 2008-10-10T12:04:00+02:00
+  author: evilchelu
+  categories: blog, intalniri
+
+# wurbe #15 - back to foosball
+  2008-11-18, 2008-11-18
+  atom-date: 2008-11-18T21:44:00+01:00
+  author: vio
+  categories: blog
+
+# wurbe #15
+  2008-11-27, 2008-11-27
+  atom-date: 2008-11-27T23:46:00+01:00
+  author: xhr
+  categories: blog, intalniri
+
+# wurbe #16 - zapada
+  2008-12-13, 2008-12-13
+  atom-date: 2008-12-13T00:31:00+01:00
+  author: zmack
+  categories: blog
+
+# wurbe #16
+  2008-12-23, 2008-12-23
+  atom-date: 2008-12-23T13:30:00+01:00
+  author: zmack
+  categories: blog, intalniri
+
+# wurbe #17 - sapa si lopata
+  2009-01-16, 2009-01-16
+  atom-date: 2009-01-16T00:46:00+01:00
+  author: xhr
+  categories: blog
+
+# wurbe #17
+  2009-02-02, 2009-02-02
+  atom-date: 2009-02-02T14:01:00+01:00
+  author: zmack
+  categories: blog, intalniri
+
+# wurbe #18 - call for papers
+  2009-02-10, 2009-02-10
+  atom-date: 2009-02-10T20:20:30+01:00
+  author: Cristi Balan
+  categories: blog
+
+# wurbe #18 - program
+  2009-03-02, 2009-03-02
+  atom-date: 2009-03-02T06:04:19+01:00
+  author: Cristi Balan
+  categories: blog
+
+# wurbe #18
+  2009-03-19, 2009-03-19
+  atom-date: 2009-03-19T15:58:33+02:00
+  author: Cristi Balan
+  categories: blog, intalniri
+
+# wurbe #19 - vine, vine, primavara
+  2009-03-19, 2009-03-19
+  atom-date: 2009-03-19T18:20:30+02:00
+  author: Cristi Balan
+  categories: blog
+
+# wurbe #19
+  2009-04-13, 2009-04-13
+  atom-date: 2009-04-13T21:52:41+01:00
+  author: Cristi Balan
+  categories: blog, intalniri
+
+# wurbe #20 - late bloomer
+  2009-04-26, 2009-04-26
+  atom-date: 2009-04-26T18:20:30+02:00
+  author: Andrei Bocan
+  categories: blog
+
+# wurbe #20
+  2009-05-01, 2009-05-01
+  atom-date: 2009-05-01T10:25:41+01:00
+  author: Andrei Maxim
+  categories: blog, intalniri
+
+# wurbe #21 - a zis cineva bere?
+  2009-05-15, 2009-05-15
+  atom-date: 2009-05-15T16:30:30+02:00
+  author: Andrei Maxim
+  categories: blog
+
+# wurbe #21
+  2009-05-27, 2009-05-27
+  atom-date: 2009-05-27T10:25:41+01:00
+  author: Andrei Maxim
+  categories: blog, intalniri
+
+# wurbe #22 - hackfest
+  2009-06-11, 2009-06-11
+  atom-date: 2009-06-11T17:30:30+03:00
+  author: Andrei Bocan
+  categories: blog
+
+# wurbe #22 - organizare
+  2009-06-30, 2009-06-30
+  atom-date: 2009-06-30T15:43:58+03:00
+  author: Cristi Balan
+  categories: blog
+
+# wurbe #22 - ultimele detalii
+  2009-07-03, 2009-07-03
+  atom-date: 2009-07-03T13:26:57+03:00
+  author: Cristi Balan
+  categories: blog
+
+# wurbe #22
+  2009-07-29, 2009-07-29
+  atom-date: 2009-07-29T15:50:22+01:00
+  author: Cristi Balan
+  categories: blog, intalniri
+
+# rails bugmash
+  2009-08-06, 2009-08-06
+  atom-date: 2009-08-06T11:39:11+03:00
+  author: Cristi Balan
+  categories: blog
+
+# wurbe #23 - bere de vara
+  2009-08-12, 2009-08-12
+  atom-date: 2009-08-12T15:50:22+02:00
+  author: Andrei Bocan
+  categories: blog
+
+# wurbe #23
+  2009-09-16, 2009-09-16
+  atom-date: 2009-09-16T17:00:20+03:00
+  author: Cristi Balan
+  categories: blog, intalniri
+
+# wurbe #24 - bere aniversara
+  2009-09-16, 2009-09-16
+  atom-date: 2009-09-16T17:08:00+03:00
+  author: Cristi Balan
+  categories: blog
+
+# rails bugmash 2
+  2009-09-23, 2009-09-23
+  atom-date: 2009-09-23T23:10:31+03:00
+  author: Cristi Balan
+  categories: blog
+
+# wurbe #24
+  2009-09-23, 2009-09-23
+  atom-date: 2009-09-23T22:52:03+03:00
+  author: Cristi Balan
+  categories: blog, intalniri
+
+# wurbe #25 - nosql
+  2009-09-23, 2009-09-23
+  atom-date: 2009-09-23T23:21:43+03:00
+  author: Cristi Balan
+  categories: blog
+
+# wurbe #25 - program
+  2009-10-25, 2009-10-25
+  atom-date: 2009-10-25T22:22:20+02:00
+  author: Cristi Balan
+  categories: blog
+
+# wurbe #25
+  2009-11-10, 2009-11-10
+  atom-date: 2009-11-10T15:11:03-02:00
+  author: Cristi Balan
+  categories: blog, intalniri
+
+# wurbe #26 - electorala
+  2009-11-20, 2009-11-20
+  atom-date: 2009-11-20T11:08:00+03:00
+  author: Andrei Maxim
+  categories: blog
+
+# wurbe #26
+  2009-12-11, 2009-12-11
+  atom-date: 2009-12-11T16:50:03-02:00
+  author: Andrei Maxim
+  categories: blog, intalniri
+
+# wurbe #27 - final de an
+  2009-12-11, 2009-12-11
+  atom-date: 2009-12-11T17:00:00+03:00
+  author: Andrei Maxim
+  categories: blog
+
+# wurbe #27
+  2010-01-20, 2010-01-20
+  atom-date: 2010-01-20T14:01:08+02:00
+  author: Andrei Bocan
+  categories: blog, intalniri
+
+# wurbe #28 - event-driven
+  2010-01-22, 2010-01-22
+  atom-date: 2010-01-22T12:30:00+03:00
+  author: Andrei Maxim
+  categories: blog
+
+# wurbe #28
+  2010-02-21, 2010-02-21
+  atom-date: 2010-02-21T16:02:21+02:00
+  author: Andrei Bocan
+  categories: blog, intalniri
+
+# wurbe #29 - editia geocities
+  2010-02-23, 2010-02-23
+  atom-date: 2010-02-23T11:30:00+03:00
+  author: Andrei Maxim
+  categories: blog
+
+# wurbe #29
+  2010-03-30, 2010-03-30
+  atom-date: 2010-03-30T20:02:21+02:00
+  author: Andrei Maxim
+  categories: blog, intalniri
+
+# wurbe #30 - nu e păcăleală!
+  2010-03-30, 2010-03-30
+  atom-date: 2010-03-30T20:38:00+02:00
+  author: Andrei Maxim
+  categories: blog
+
+# wurbe #30
+  2010-04-25, 2010-04-25
+  atom-date: 2010-04-25T20:02:21+02:00
+  author: Viorel Cojocaru
+  categories: blog, intalniri
+
+# wurbe #31 - a venit vara
+  2010-04-26, 2010-04-26
+  atom-date: 2010-04-26T20:50:22+02:00
+  author: Viorel Cojocaru
+  categories: blog
+
+# wurbe #31
+  2010-05-18, 2010-05-18
+  atom-date: 2010-05-18T22:05:21+03:00
+  author: Andrei Bocan
+  categories: blog, intalniri
+
+# wurbe #32 - despre viata
+  2010-05-25, 2010-05-25
+  atom-date: 2010-05-25T19:05:44+03:00
+  author: Andrei Bocan
+  categories: blog
+
+# wurbe #32
+  2010-06-29, 2010-06-29
+  atom-date: 2010-06-29T10:06:02+03:00
+  author: Andrei Bocan
+  categories: blog, intalniri
+
+# wurbe #33 - de vacanta
+  2010-08-02, 2010-08-02
+  atom-date: 2010-08-02T10:00:00+03:00
+  author: Viorel Cojocaru
+  categories: blog
+
+# wurbe #33
+  2010-09-28, 2010-09-28
+  atom-date: 2010-09-28T19:09:19+03:00
+  author: Andrei Bocan
+  categories: blog, intalniri
+
+# wurbe #34 - mai bine mai tarziu decat si mai tarziu
+  2010-09-28, 2010-09-28
+  atom-date: 2010-09-28T19:09:20+03:00
+  author: Andrei Bocan
+  categories: blog
+
+# wurbe #34
+  2010-10-11, 2010-10-11
+  atom-date: 2010-10-11T21:10:37+03:00
+  author: Andrei Bocan
+  categories: blog, intalniri
+
+# wurbe #35 - the next generation
+  2010-10-12, 2010-10-12
+  atom-date: 2010-10-12T00:09:20+03:00
+  slug: wurbe-35-next-generation
+  author: Andrei Maxim
+  categories: blog
+
+# wurbe #36 - call for papers
+  2010-10-13, 2010-10-13
+  atom-date: 2010-10-13T20:20:30+01:00
+  author: Andrei Maxim
+  categories: blog
+

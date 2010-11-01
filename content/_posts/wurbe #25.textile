@@ -1,0 +1,18 @@
+Wurbe #25 a avut loc, marti, 27 octombrie 2009, intre 18:00 si 22:30, la sediul "Adobe Romania":http://myadobe.ro/. Au fost cam 50 de participanti si 5 prezentari.
+
+Dupa ceva intarzieri si alarme de incendiu false, wurbe a inceput pe la 19, cu pizza :).
+
+Multumiri, din nou, celor de la Adobe pentru sala, suc, proiector, aranjat scaunele, rabdare si ajutor :). Rock on!
+
+h3. Prezentari
+
+* *Andrei Dragomir* - "Distributed systems concepts":
+* *Vlad Posea* - "Semantic repositories":
+* *Alex Morega* - "Baze de date obiectuale in Python":
+* *Cosmin Lehene* - "HBase":
+* *Andrei Savu* - "Hbase powered feed aggregator":http://cloud.github.com/downloads/evilchelu/wurbe.ro/wurbe-25_andrei-savu_feedaggregator-hbase.pdf
+
+h3. Poze
+
+* "Flickr, tagged with wurbe":http://www.flickr.com/photos/tags/wurbe
+* "Flickr, tagged with wurbe25":http://www.flickr.com/photos/tags/wurbe25

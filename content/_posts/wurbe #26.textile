@@ -1,0 +1,8 @@
+Acum fix două săptămâni, adică pe 27 noiembrie, a avut loc a 26-a ediţie de Wurbe, în S.A.L.T. Prezenţa a fost un pic mai numeroasă decât s-a anunţat iniţial, adică aproape de 15-16 persoane.
+
+Ca de obicei, s-au abordat mai multe subiecte mai mult sau mai puţin legate de dezvoltarea web, dar cele mai aprig disputate au fost cele legate de TDD/BDD şi despre Netcamp şi al său Launch48.
+
+Avem şi câteva poze, făcute de JDD-wannabes:
+
+* "Flickr, tagged with wurbe":http://www.flickr.com/photos/tags/wurbe
+* "Flickr, tagged with wurbe26":http://www.flickr.com/photos/tags/wurbe26

@@ -1,0 +1,5 @@
+In weekendul 8-9 august, echipa "RailsBridge":http://railsbridge.org/ organizeaza un "BugMash":http://wiki.railsbridge.org/projects/railsbridge/wiki/BugMash. BugMash-ul este deschis oricarei persoane care foloseste ruby sau rails. Nu trebuie sa fii un super programator ca sa contribui. Poti sa incerci sa reproduci un bug pentru a-l confirma, poti sa scrii un test sau ceva documentatie. Detalii sunt pe wiki-ul evenimentului.
+
+Pentru a incuraja contributiile la proiecte open source in Romania, va propunem sa participati la eveniment. Concret, wurbe va premia un participant din Romania folosind "regulile oficiale pentru acordarea premiilor":http://wiki.railsbridge.org/projects/railsbridge/wiki/BugMash#Scoring. In principiu, premiul este cartea "Ruby Design Patterns":http://designpatternsinruby.com/, dar mai sunt si alte posibilitati interesante. Daca sunt prea multi participanti, poate mai gasim si alte premii :). Va rugam sa va anuntati prezenta printr-un comentariu.
+
+Spor!

@@ -1,0 +1,37 @@
+h3. Tema
+
+Tema pentru wurbe #18 este *"shaving seconds"*.
+
+Mai clar, despre ce si cum facem pentru a economisi secunde pentru operatii uzuale. Editat cod, photoshop, aliasuri, scris mici scripturi, administrat servere sau orice operatiune automatizabila.
+
+Am ideea asta in cap mai demult, si mi-am adus aminte si de unde :). De la "Rands - saving seconds":http://www.randsinrepose.com/archives/2008/04/21/saving_seconds.html.
+Tot legat de subiect: "Laziness Impatience Hubris":http://c2.com/cgi/wiki?LazinessImpatienceHubris.
+
+h3. Data si locatie
+
+Joi, 5 martie, de la ora 18:00, la sediul "Adobe Romania":http://myadobe.ro/. Vom primi apa+suc+bere de la Adobe, pentru pizza va trebui sa facem cheta.
+
+h3. Propuneri
+
+Termenul limita pentru propuneri este 1 martie (18 zile incepand de azi). Pe 2 martie vom alege prezentarile care vor fi acceptate si vom anunta programul.
+
+Pentru aceasta editie am vrea ca participarea publicului sa fie masiva, si intalnirea sa fie mai mult spre lightning talks decat spre prezentari lungi. In plus, nu vom accepta decat prezentari hands on, cu exemple live, hand coding, etc. Lungimea minima a unei prezentari este de 5 minute, si maxima de 30 de minute. O persoana poate propune mai multe prezentari. Pregatirea unui PDF/PPT nu este necesara.
+
+La sfarsit am vrea sa facem si mici lightning talks rapide despre aliasurile si scripturile mici din ~/bin :).
+
+Pentru ca subiectul se preteaza destul de mult la flame wars, insistam asupra unor reguli de bun simt:
+
+* Prezentarile trebuie sa nu fie triviale. Nu ne intereseaza chestii gen: oh, daca apesi cmd+w inchizi tab-ul :p
+* Nu prea ne intereseaza nici metodologii self-help gen GDT and friends
+* NO FLAMING! Daca nu ai nimic inteligent de zis, mai bine nu zici. We'll have bouncers :D
+* Daca esti utilizator de emacs si prezentarea este despre vim, abtine-te de la comentarii inutile. Poti sa faci si tu una despre emacs
+
+Pentru adunarea propunerilor, am creat si writeboard-ul "wurbe #18 - cfp":http://123.writeboard.com/5e3d52b0bc1ad9266 (parola este *wurbe*).
+
+*Important!* Propunerile trebuie sa fie insotite si de o durata estimata a prezentarii
+
+h3. Inscrieri
+
+Inscrierile se fac pe "eventbrite":http://wurbe18.eventbrite.com/ si se termina duminica dinainte de eveniment, pe 1 martie.
+
+Spor la propuneri :)

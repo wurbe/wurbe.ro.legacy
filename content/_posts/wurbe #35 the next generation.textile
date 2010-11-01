@@ -1,0 +1,3 @@
+Cum noua versiune de HTML 5 bate la usa (mai avem doar vreo 4000 si un pic de zile pana cand ajunge in stadiul de propunere _recomandata_), ne-am hotarat sa dedicam editia omagiala #35 generatiilor viitoare de HTML si CSS.
+
+Pe langa discutiile care s-ar putea ivi la o bere, vom avea ocazia sa vorbim in *S.A.L.T, joi, 21 octombrie, incepand cu ora 18,* despre tot ce tine de HTML5 si CSS3, suportul la nivel de browsere. Evident, prezenta se face in comentarii.

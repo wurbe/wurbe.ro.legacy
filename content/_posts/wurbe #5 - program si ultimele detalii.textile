@@ -1,0 +1,34 @@
+Discalimer: acest anunt e in mare parte copy/paste de la wurbe #2 :).
+
+Mai sunt doar 2 ore pana cand incepe wurbe #5! Si, surprinzator, s-au inscris 69 de persoane.
+
+Cei care nu reusesc sa ajunga <a href="https://admin.adobe.acrobat.com/_a295153/wurbe5">pot urmari evenimentul live</a>.
+
+Adresa este *Anchor Plaza, Bd. Timisoara, nr. 26Z, et. 9*. Este cladirea de langa Plaza Romania. Se poate ajunge acolo cu:
+
+* metroul pana la Armata Poporului, se ia de la eroilor
+* tramvaiul 41 statia lujerului sau timisoara
+* autobuzul 336 de pe iuliu maniu
+* autobuzul 137 sau tramvaiul 25 de pe bd. timisoara
+
+Nu trebuie printat mail-ul de la eventbrite, cei de la securitate au deja lista cu numele participantilor. Accesul in cladire este permis pe baza actului de identitate, incepand cu ora 17. Va rog sa ajungeti cel tarziu la 17:30 pentru a nu intarzia prezentarile.
+
+Presupun ca lumea planuieste sa povesteasca despre wurbe nepotilor. Asa ca, daca vrei sa fii un "JDD":http://flickr.com/photos/x180/ autohton, adauga tagurile wurbe si wurbe5 la pozele de pe flickr, picasa sau alte site-uri. Asta e sansa ta :).
+
+* "Flickr stream pentru wurbe":http://www.flickr.com/photos/tags/wurbe
+* "Flickr stream pentru wurbe5":http://www.flickr.com/photos/tags/wurbe5
+* "Picasaweb search":http://picasaweb.google.com/lh/searchbrowse?q=wurbe
+
+h3. Programul
+
+* 17:00-17:50 Adunarea oamenilor si gasirea de scaune :)
+* 17.50-18.00 Introducere
+* 18.00-18.30 *Octavian Costache* - Practical benefits of unittesting, examples, how unittesting will improve your sex life (but mainly your code)
+* 18.30-19.00 *Cosmin Lehene* - TDD, mocking and why you need coverage to really cover your ass.
+* 19:00-19:30 Pauza: pizza, bere si suc din partea gazdei noastre minunate, Adobe Romania <3
+* 19.30-20.00 *Adrian Spinei* - Tales from the dark side: browser controller testing for webapps in Windows environment
+* 20.00-20.30 *Mihai Bulhac* - O scurta prezentare despre WATIR (Web App Testing in Ruby) si AutoIt (Windows GUI automation)
+* 20.30-21.00 *Bogdan Roman* - # Custom Web Test Framework peste Selenium RC cu java.awt.Robot: concept, demo, pros & cons.
+* 21.00-21.30 Pauza
+* 21.30-22.00 *Cristi Balan* - BDD in ruby with RSpec
+* 22.00-22.30 *Sergiu Truta* - RSpec Stories

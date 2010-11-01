@@ -1,0 +1,27 @@
+Iar am binevoit sa ne trezim cu 2 saptamani inainte de eveniment sa gasim tot ce ne trebuie asa ca ne-am hotarat sa ne ducem iar la "Adobe":http://myadobe.ro/, in aceeasi sala ca "wurbe #2":http://wurbe.ro/2007/10/4/wurbe-2. Yay!
+
+Cladirea este Anchor Plaza, Bd. Timisoara, nr. 26Z, Bucuresti, langa mall Plaza Romania. Se poate ajunge acolo cu metroul pana la Lujerului, sau cu tramvaiul 41.
+
+Intalnirea va avea loc luni, 21 ianuarie. Prezentarile vor incepe la 18:00 asa ca ar trebui sa incercam sa fim acolo incepand cu 17:30.
+
+h3. Prezentari
+
+Bazandu-ne pe experienta de la wurbe #2, prezentarile vor avea 15 minute + 10-15 minute de QA. Momentan sunt doar 2 prezentari anuntate (why testing is good, rspec), inca 2 potentiale(watir, security), iar noi am vrea sa fie cam 6-8 in total.
+
+Alte idei de prezentari care ar fi interesante:
+* selenium
+* mocking
+* tipuri de testare: unit, functional, integration
+* test coverage
+* mutation testing
+* horror stories
+* success stories
+* ...
+
+Propunerile pentru prezentari se pot adauga pe "writeboard":http://123.writeboard.com/e36f15595dc54a88a (parola este *wurbe*).
+
+h3. Inscrieri
+
+Pentru inscrieri, am creat un "eveniment pe eventbrite":http://www.eventbrite.com/event/92260955. Inscrierile sunt permise pana in ziua evenimentului, la 11:30.
+
+*Inscrierea este obligatorie pentru a avea acces in cladirea Adobe.*

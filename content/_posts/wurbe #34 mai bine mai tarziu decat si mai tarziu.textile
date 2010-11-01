@@ -1,0 +1,7 @@
+Dupa o absenta mult prea indelungata, avem placerea de a va invita la editia cu numarul 34 a conventiei locale a specialistilor in interneturi, wurbe.
+
+Asadar *Joi, 30 Septembrie*, ia-ti cravata cu Super Mario si vino "Pe Baricade":http://www.pebaricade.ro/ ("harta":http://metropotam.ro/Cluburi/loc0817741456-La-Baricade/) de la orele 18:00 sa vorbim despre ce s-a mai intamplat cu framework-urile web in ultima vreme.
+
+RESTful, non-blocking, multi-threaded, nosql-friendly, functionala, test-driven sau altceva ti se pare ca ar trebui sa aiba un loc central in tatuajul de langa inima oricarui web developer, vrem sa stim si noi.
+
+Daca vii, adauga un comentariu ca sa stim si noi ce cravate ne luam.

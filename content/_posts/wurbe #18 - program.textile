@@ -1,0 +1,40 @@
+Pentru wurbe #18 s-au inscris 70 de persoane si vom avea 4 prezentari si multe lightning talks.
+
+Adresa este *Anchor Plaza, Bd. Timisoara, nr. 26Z, et. 9*. Este cladirea de birouri de langa Plaza Romania. Se poate ajunge acolo cu:
+
+* metroul pana la Armata Poporului, se ia de la eroilor
+* tramvaiul 41 pana la statia lujerului sau timisoara
+* autobuzul 336 de la universitate, statia lujerului
+* autobuzul 137 sau tramvaiul 25, pana la bd. timisoara
+
+Nu trebuie printat mail-ul de la eventbrite, cei de la securitate vor avea lista cu numele participantilor. Accesul in cladire este permis pe baza actului de identitate, incepand cu ora 17:30. Va rog sa incercati sa ajungeti la timp pentru a nu intarzia prezentarile.
+
+h3. Papica
+
+Vom comanda cam 20 de pizza pentru care vom face cheta.
+
+h3. Poze
+
+Presupun ca lumea planuieste sa povesteasca despre wurbe nepotilor. Asa ca, daca vrei sa fii un "JDD":http://flickr.com/photos/x180/ autohton, adauga tagurile wurbe si wurbe18 la pozele de pe flickr, picasa sau alte site-uri. Asta e sansa ta :).
+
+* "Flickr stream pentru wurbe":http://www.flickr.com/photos/tags/wurbe
+* "Flickr stream pentru wurbe18":http://www.flickr.com/photos/tags/wurbe18
+* "Picasaweb search":http://picasaweb.google.com/lh/searchbrowse?q=wurbe
+
+h3. Program
+
+De data asta se pare ca lumea nu s-a imbulzit la prezentari. Probabil nu exista destui oameni eficienti... inca :).
+
+Oricum, asta inseamna ca vom avea un format mai special pentru wurbe, ceva mai asemanator cu "wurbe #2":/2007/10/04/wurbe-2.
+
+Vom face cateva prezentari iar apoi vom trece la lightning talks. Fiecare participant este invitat sa ne arate in cateva minute, cum lucreaza si ce chestii destepte foloseste zi de zi.
+
+* 17:30-18:00 Adunarea oamenilor si gasirea de scaune :)
+* 18:00-18:15 *Cristi Balan* - introducere
+* 18:15-19:00 *Alexandru Nedelcu* - emacs
+* 19:00-19:30 pizza!
+* 19:30-20:15 *Cristi Balan* - vimfu
+* 20:15-20:30 *Irina Dumitrascu* - enso
+* 20:30-21:00 pauza
+* 21:00-22:00 *toata lumea* - lightning talks
+* 22:00-03:00 pauza, fussball, etc

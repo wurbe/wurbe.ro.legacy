@@ -1,0 +1,45 @@
+Wurbe #2 a avut loc, pe 1 octombrie, intre 18:00 si 22:45, la sediul "Adobe Romania":http://myadobe.ro/. Au fost peste 70 de participanti, 5 prezentari de cam 35 de minute (putin mai lungi decat ne asteptam, dar am taiat din pauze :p) si 6 lightning talks de cam 10 minute.
+
+Multumiri celor de la Adobe pentru sala, pizza, suc, proiector, badge-uri, rabdare si ajutor :). Wurbe #2 nu ar fi fost asa de bine organizat fara ajutorul lor. Speram ca au invatat ceva din greselile noastre (prea multe pizze si prezentari, prea putine pauze :) ) si ca "FlexCamp Bucharest" va iesi si mai bine.
+
+Se pare ca am fost cei mai lenesi cu detaliile despre cum a fost wurbe #2. Nu-i nimic, o sa compensam prin cantitate :). Am adunat mai jos lista de vorbitori si (aproape toate) prezentarile lor.
+
+h3. Prezentari
+ 
+ * Savu Andrei, "Session Protect":https://docs.google.com/TeamPresent?fs=true&docid=dhf44735_62w9fnpk&pli=1 (google docs)
+ * Andrei Maxim, "Identitate pe Web":http://andreimaxim.files.wordpress.com/2007/10/identitate_web.pdf (pdf)
+ * Cristi Balan, "CSS Bits":http://evil.che.lu/assets/2007/10/3/evilchelu_cssbits_ro.zip (pdf + keynote)
+ * Dragos Ionita, "Flash pentru motoarele de cautare":http://wurbe.ro/assets/2007/10/4/dragos_ionita_flash_seo.swf (swf)
+ * Justin Kadima, "MonoRails, Rails pentru .NET":http://wurbe.ro/assets/2007/10/4/justin_kadima_monorail.zip (pdf + powerpoint)
+
+h3. Lightning Talks
+
+ * Sorin Mocanu, "Flex sau OpenLaszlo, cum alegi?":http://www.webprodevelopment.com/wurbe2 (google docs)
+ * Sorin Sbarnea, "GTD cu Thunderbird":http://docs.google.com/Present?docid=df7sfds3_0hbrzk8&fs=true
+ * Alex Brie, "Ruby Metaprogramming":http://docs.google.com/TeamPresent?fs=true&docid=d9cm3xj_16c32ck9
+ * Aurelian Oancea, "RFSDS":http://locknet.ro/files/remote.rake.html (html)
+ * Viorel Cojocaru - "Blogging semantically":http://wurbe.ro/assets/2007/10/4/viorel_cojocaru_blogging_semantically.swf (swf)
+ * Cristi Balan, "giston, piston for git":http://evil.che.lu/assets/2007/10/3/evilchelu_giston_ro.zip (pdf + keynote)
+
+h3. Reactii
+
+ * "Tim, Wurbe #2":http://www.boo.ro/2007/10/02/wurbe-2/
+ * "Alin Zainescu":http://www.alinzainescu.ro/?p=105
+ * "Alex Brie":http://alexbrie.net/myblog/blog/photo/1679/wurbe-2/
+ * "Aurelian Oancea":http://www.locknet.ro/article/wurbe2
+ * "Razvan Caliman":http://vandpupaza.tskdesign.ro/2007/10/02/a-fost-wurbe2-si-a-fost-bine/
+ * "Adrian Spinei":http://spinei.hotnews.ro/urbi-et-wurbe-no-2/internet/20071002/
+ * "Sorin Mocanu":http://eblogs.ro/sorin/2007/10/02/wurbe-2-concluzii-personale/
+ * "Dragos Ionita":http://fusion5.beopen.ro/postdetails-post-cum_a_fost_la_wurbe.xhtml
+ * "Tudor Barbu":http://www.it-base.ro/2007/10/02/wurbe-2/
+ * "Adobe Romania":http://myadobe.ro/2007/10/03/intalnirea-wurbe-2-la-adobe-romania/
+ * "Bogdan Ghervan":http://bogdan.designlabs.ro/blog/2007-10-03-wurbe-2/
+ * "Andrei Maxim":http://andreimaxim.ro/2007/09/29/ne-vedem-la-wurbe-2/
+
+h3. Poze
+
+ * "Flickr, tagged with wurbe":http://www.flickr.com/photos/tags/wurbe
+
+h3. In viitor
+
+Vorbind cu lumea la wurbe am observat ca ar fi o idee buna sa facem intalniri mai specializate. Am vrea sa facem si intalniri mai practice, gen workshop-uri, sau stilul barcamp. Inca mai cugetam asupra unor idei si vom veni cu propuneri in curand.
