@@ -17,7 +17,7 @@ h3. Program
 * "Introducere in SOLR" de Alexandru Badiu
 * "HTML5 pe platforme mobile" de Andrei Gheorghe
 * "Usability, sa invatam din greselile altora" de Alex Morega
-* "3 ani" de Andrei Bocan
+* "Level up" de Andrei Bocan
 * "Introducere in Objective-C pentru web developeri" de Andrei Maxim
 * "Automatic testing for web applications" de Andrei Savu
 
