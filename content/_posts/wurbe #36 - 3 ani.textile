@@ -15,7 +15,7 @@ Nu trebuie printat mail-ul de la EventBrite, cei de la securitate vor avea lista
 
 h3. Program
 * "Introducere in SOLR" de Alexandru Badiu
-* "HTML5 pe platforme mobile" de Andrei Gheorghe
+* "HTML5 pentru platforme mobile" de Andrei Gheorghe
 * "Usability, sa invatam din greselile altora" de Alex Morega
 * "Level up" de Andrei Bocan
 * "Introducere in Objective-C pentru web developeri" de Andrei Maxim
