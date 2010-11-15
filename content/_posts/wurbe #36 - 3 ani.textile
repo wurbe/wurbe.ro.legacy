@@ -1,0 +1,40 @@
+h3. Data si locatie
+
+Joi, 25 noiembrie, de la ora 18:00, la sediul "Adobe Romania":http://myadobe.ro/.
+
+Adresa este *Anchor Plaza, Bd. Timisoara, nr. 26Z, et. 9*. Este cladirea de birouri de langa Plaza Romania. Se poate ajunge acolo cu:
+
+* metroul pana la Lujerului (Armata Poporului), se ia de la Eroilor sau Piata Unirii 2
+* tramvaiul 41 de la Casa Presei Libere sau Drumul Taberei pana la statia Timisoara
+* autobuzul 336 de la Universitate pana la statia Lujerului
+* autobuzul 137 sau tramvaiul 25, pana la Bd. Timisoara
+
+Va rugam sa incercati sa folositi metroul, pentru ca de fiecare data a trebuit sa incepem cu vreo 30 de minute intarziere din cauza oamenilor blocati in trafic.
+
+Nu trebuie printat mail-ul de la EventBrite, cei de la securitate vor avea lista cu numele participantilor. Accesul in cladire este permis pe baza actului de identitate, incepand cu ora 17:30. Va rog sa incercati sa ajungeti la timp pentru a nu intarzia prezentarile.
+
+h3. Program
+* "Introducere in SOLR" de Alexandru Badiu
+* "HTML5 pe platforme mobile" de Andrei Gheorghe
+* "Usability, sa invatam din greselile altora" de Alex Morega
+* "3 ani" de Andrei Bocan
+* "Introducere in Objective-C pentru web developeri" de Andrei Maxim
+* "Automatic testing for web applications" de Andrei Savu
+
+Ordinea prezentarilor nu este finala, si exista o posibilitate foarte reala sa survina un numar de modificari.
+
+In principiu, insa, cam asta ar fi povestea.
+
+h3. Inscrieri
+
+Inscrierile se fac pe "eventbrite":http://wurbe36.eventbrite.com/ si se vor termina miercuri, 24 noiembrie.
+
+h3. Altele
+
+Dupa cum bine stiti, n-am mai prestat evenimente de acest tip de un pic mai mult de un an, asa ca s-ar putea sa fim oarecum rusty la anumite aspecte. 
+
+Asadar, pentru orice critici, intrebari, sugestii, sau pur si simplu troll-uri oribile, folositi cu incredere formularul de comentarii.
+
+O sa raspundem cat putem de repede si cat putem de bine. Sau o sa postam poze cu pinguini.
+
+Oricum, toata lumea castiga!

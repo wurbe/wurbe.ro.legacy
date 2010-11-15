@@ -576,3 +576,9 @@
   author: Andrei Bocan
   categories: blog, intalniri
 
+# wurbe #36 - 3 ani
+  2010-11-16, 2010-11-16
+  atomdate: 2010-11-16T20:20:30+01:00
+  author: Andrei Bocan
+  categories: blog
+
