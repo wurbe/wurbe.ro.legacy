@@ -2,11 +2,11 @@ h1. wurbe.ro
 
 This is the source for "wurbe.ro":http://wurbe.ro. Running on evilchelu/fluffy_barbarian.
 
-For development use passenger.
+For development use passenger or just rackup.
 
 The relevant people have been added as collaborators on heroku. To deploy you need to:
 
-git remote add git@heroku.com:wurbe.git heroku
+git remote add heroku git@heroku.com:wurbe.git
 
 After you're done writing and testing locally:
 
