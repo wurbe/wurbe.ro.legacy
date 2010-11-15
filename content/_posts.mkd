@@ -570,3 +570,9 @@
   author: Andrei Maxim
   categories: blog
 
+# wurbe #35
+  2010-11-15, 2010-11-15
+  atomdate: 2010-11-15T20:20:30+01:00
+  author: Andrei Bocan
+  categories: blog, intalniri
+
