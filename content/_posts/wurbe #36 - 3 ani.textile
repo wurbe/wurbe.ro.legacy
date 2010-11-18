@@ -20,6 +20,7 @@ h3. Program
 * "Level up" de Andrei Bocan
 * "Introducere in Objective-C pentru web developeri" de Andrei Maxim
 * "Automatic testing for web applications" de Andrei Savu
+* "Pragmatism in dezvoltarea software" de Cristian Pascu
 
 Ordinea prezentarilor nu este finala, si exista o posibilitate foarte reala sa survina un numar de modificari.
 
