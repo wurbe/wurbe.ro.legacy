@@ -582,7 +582,7 @@
   author: Andrei Bocan
   categories: blog
 
-# wurbe #36 - concluzii
+# wurbe #36
   2010-12-08, 2010-12-08
   atomdate: 2010-12-08T20:20:30+02:00
   author: Andrei Bocan
