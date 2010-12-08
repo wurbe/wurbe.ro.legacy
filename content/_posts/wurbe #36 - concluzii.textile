@@ -1,0 +1,39 @@
+h2. Desfasurare
+
+Editia asta de wurbe s-a desfasurat, in mare, in parametri normali. Am inceput cu jumatate de ora mai tarziu, a fost un haos oribil in jurul ordinii prezentarilor, pizzei si cam orice se mai putea.
+
+Per total, insa, pentru noi a fost foarte distractiv si speram ca si pentru voi.
+
+h2. Prezentari
+
+Din cele sapte prezentari pe care le planificasem, am reusit sa trecem doar prin sase. Invatatura pe o deducem din acest fapt este ca mai mult de sase prezentari nu prea avem cum sa indesam intr-o editie de wurbe.
+
+Pe de alta parte, prin magia internetului si a fisierelor cu biti in ele, acum putem sa va oferim spre consum prezentarea domnului Andrei Maxim. Recomandam citirea langa semineu, cu un pahar de vin, eventual impreuna cu cei dragi.
+
+In ordinea absolut aleatoare a inceperii, prezentarile sunt:
+
+* "Automatic testing for web applications":http://www.slideshare.net/savu.andrei/automated-testing-for-web-applications-wurbe-36 de Andrei Savu
+* "Introducere in SOLR" de Alexandru Badiu
+* "HTML5 pentru platforme mobile":https://github.com/downloads/wurbe/wurbe.ro.legacy/html5_mobile.pdf de Andrei Gheorghe
+* "Usability, sa invatam din greselile altora":http://grep.ro/quickpub/wurbe-usability/ de Alex Morega
+* "Pragmatism in dezvoltarea software" de Cristian Pascu
+* "Level up":https://docs.google.com/present/view?id=dwk2dhb_115f4px4bg2 de Andrei Bocan
+* *BONUS* "Introducere in Objective-C pentru web developeri":https://github.com/downloads/wurbe/wurbe.ro.legacy/objective-c.pdf de Andrei Maxim
+
+h2. Poze
+
+Desi am vazut multa lume cu lucruri care pareau a fi aparate foto, nu am reusit sa reperam fotografii de la eveniment.
+
+Asadar, o scurta clasificare a pozelor care ar fi putut fi facute la wurbe:
+
+* om care prezinta o chestie
+* om care e serios in timp ce prezinta o chestie
+* om care se uita serios la omul care prezinta o chestie
+* om care se uita zambind la omul care prezinta o chestie
+* oameni care mananca pizza
+* un om respectabil trolleaza alt om respectabil
+* un om respectabil discuta cu alt om respectabil
+* poza din baia domnului Pascu
+* un om in prezinta un lup pe fundal galben
+
+Speram ca pozele superb executate de mai sus v-au convins ca ar trebui sa veniti negresit la urmatorul wurbe.
