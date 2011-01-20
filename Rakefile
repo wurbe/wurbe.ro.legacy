@@ -7,9 +7,11 @@ namespace :wurbe do
   task :new_post, :title do |t, args|
 
     args.with_default(:title => "wurbe #xx")
+    title = args[:title].strip.downcase
     today = Date.today.to_s
+    new_post_filename = File.join(POSTS_PATH, "#{title}.textile")
     new_post_metadata = <<-POST
-\n# #{args[:title]}
+\n# #{title}
   #{today}, #{today}
   atomdate: #{Time.now.getgm.strftime("%Y-%m-%dT%H:%M:%SZ")}
   author: #{`git config --get user.name`.strip}
@@ -19,11 +21,14 @@ namespace :wurbe do
     File.open("#{POSTS_PATH}.mkd", "a") do |f|
       f.write(new_post_metadata)
     end
+    puts "√ Added #{title} to post list"
 
-    File.open(File.join(POSTS_PATH, args[:title]), 'w') do |f|
+    File.open(new_post_filename, 'w') do |f|
       f.write(<<-EOF)
 IT WAS AWESOME LOL
       EOF
     end
+
+    puts "√ Created #{new_post_filename}"
   end
 end
