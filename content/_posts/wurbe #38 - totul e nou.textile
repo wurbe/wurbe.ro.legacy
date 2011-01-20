@@ -1,0 +1,13 @@
+Dupa un sfarsit glorios de an, hai sa-l planificam pe cel care vine.
+
+Tu ce vrei sa faci in 2011? Sa inveti Haskell? Erlang? Scala? Clojure?
+
+Sa iti pui la punct cunostintele de Lua?
+
+Vrei sa treci toate aplicatiile tale pe MongoDB ca sa fii 100% web scale?
+
+Ai de gand sa faci inca 3 clone de Groupon?
+
+Vino *marti, 25 ianuarie, incepand cu ora 19,* in "S.A.L.T":http://www.saltpub.ro, sa discutam despre interneti si sa ne bagam reciproc mintile in cap.
+
+Daca veniti, spuneti-ne in comentarii cum vreti sa denumiti clona voastra de Groupon, ca sa stim cate locuri sa pastram.
