@@ -15,7 +15,7 @@ namespace :wurbe do
   #{today}, #{today}
   atomdate: #{Time.now.getgm.strftime("%Y-%m-%dT%H:%M:%SZ")}
   author: #{`git config --get user.name`.strip}
-  categories: blog, intalniri
+  categories: blog
     POST
 
     File.open("#{POSTS_PATH}.mkd", "a") do |f|
