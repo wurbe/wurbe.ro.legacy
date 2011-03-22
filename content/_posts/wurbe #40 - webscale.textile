@@ -1,0 +1,13 @@
+w00t, am ajuns la a 40-a editie de Wurbe. Cine ar fi crezut?
+
+Asa ca planul e ca in ultima *marti* din luna *martie*, adica pe *29*,
+incepand cu *ora 19,* sa ne intalnim in "S.A.L.T":http://www.saltpub.ro ca sa
+discutam despre _scalabilitate_.
+
+Dar daca ideea de a-ti face aplicatia sa fie _web scale_ te inspaimanta, putem
+vorbi oricand despre posibilele subiectele de la editia jubiliara cu numarul
+41.
+
+Ca de obicei, prezenta se confirma in comentarii.
+
+PS: E posibil ca a 40-a bere sa fie din partea casei.
