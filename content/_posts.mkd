@@ -617,3 +617,9 @@
   atomdate: 2011-03-22T17:42:01Z
   author: Andrei Maxim
   categories: blog
+
+# wurbe 40 redux
+  2011-04-18, 2011-04-18
+  atomdate: 2011-04-18T07:33:29Z
+  author: Andrei Maxim
+  categories: blog

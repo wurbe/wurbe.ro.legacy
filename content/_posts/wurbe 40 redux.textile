@@ -1,0 +1,9 @@
+Pentru ca editia initiala de Wurbe 40 n-a avut, uhm, awesomeness-ul necesar unei editii de wurbe, in special din cauza subsemnatului (sorry, dau bere, promit!), ne-am gandit sa refacem editia, cu aceeasi tema, A.K.A. "webscale".
+
+Asa ca planul e ca *joi*, 21 aprilie, incepand cu *ora 19,* sa ne intalnim in "S.A.L.T":http://www.saltpub.ro ca sa discutam despre _scalabilitate_.
+
+Dar daca ideea de a-ti face aplicatia sa fie _web scale_ te inspaimanta, putem
+vorbi oricand despre posibilele subiectele de la editia jubiliara cu numarul
+41, care e posibil sa aiba loc intr-un format care sa implice si un videoproiector.
+
+Ca de obicei, prezenta se confirma in comentarii.
