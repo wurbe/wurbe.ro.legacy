@@ -1,6 +1,6 @@
 Dupa o serie de discutii la Yahoo Open Hack, ne-am dat seama ca in fuga noastra dupa timpi de incarcare mai buni, baze de date mai rapide, si cod cat mai expresiv, am uitat de unde am pornit.
 
-Pentru a rectifica aceasta problema, am decis ca aceasta editie de wurbe ca fi una in care, in stilul deja caracteristic al manifestarii, vom dezgropa trecutul nostru de programatori folosind tarnacopul amplu dar delicat al berii.
+Pentru a rectifica aceasta problema, am decis ca aceasta editie de wurbe va fi una in care, in stilul deja caracteristic al manifestarii, vom dezgropa trecutul nostru de programatori folosind tarnacopul amplu dar delicat al berii.
 
 Acestea fiind spuse, va asteptam miercuri, 25 mai 2011, orele 19:00, in localul deja consacrat pentru editiile de vara, "Pe Baricade":http://www.pebaricade.ro/ ( "harta":http://metropotam.ro/Cluburi/loc0817741456-La-Baricade/ ) sa vorbim despre backtracking, sortare, Dijkstra si algoritmi greedy.
 
