@@ -623,3 +623,9 @@
   atomdate: 2011-04-18T07:33:29Z
   author: Andrei Maxim
   categories: blog
+
+# wurbe #41 - radacini
+  2011-05-20, 2011-05-20
+  atomdate: 2011-05-20T11:58:42Z
+  author: Andrei Bocan
+  categories: blog
