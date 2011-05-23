@@ -42,7 +42,7 @@
             %ul
               - @meets.reverse.each do |meet|
                 %li
-                  = link_to meet[:title], meet[:url]
+                  = link_to "wurbe ##{meet[:title].match(/\d+/)[0]}", meet[:url]
                   %em== (#{meet[:happened_on]})
 
           .boxy.short

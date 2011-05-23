@@ -24,7 +24,7 @@ class Application < FluffyBarbarian::Application
 
     @index = FluffyBarbarian::Index.new("content/_posts")
     @posts = @index.all
-    @meets = @posts.find_all { |p| p[:categories].include? "intalniri" }
+    @meets = @posts.find_all { |p| p[:categories].include? "planning" }
 
     code = 200
     headers = { "Content-Type" => "text/html" }
@@ -42,7 +42,7 @@ class Application < FluffyBarbarian::Application
              name = $1
              @title = "#{name} - #{@settings[:title]}"
              @slug = name
-             @meets = @posts.find_all { |p| p[:categories].include? "intalniri" }
+             @meets = @posts.find_all { |p| p[:categories].include? "planning" }
 
              @posts = @index.all.each do |post|
                post[:content] ||= render(:content => post[:path])

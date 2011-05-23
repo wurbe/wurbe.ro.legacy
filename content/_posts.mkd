@@ -14,7 +14,7 @@
   2007-08-29, 2007-08-29
   atomdate: 2007-08-29T10:27:00+02:00
   author: evilchelu
-  categories: blog
+  categories: blog, planning
 
 # hua ici
   2007-08-31, 2007-08-31
@@ -44,7 +44,7 @@
   2007-09-11, 2007-09-11
   atomdate: 2007-09-11T14:44:00+02:00
   author: evilchelu
-  categories: blog
+  categories: blog, planning
 
 # inscrierile pentru wurbe #2 s-au terminat
   2007-09-27, 2007-09-27
@@ -74,7 +74,7 @@
   2007-10-22, 2007-10-22
   atomdate: 2007-10-22T16:25:00+02:00
   author: evilchelu
-  categories: blog
+  categories: blog, planning
 
 # wurbe #3 - plan
   2007-10-30, 2007-10-30
@@ -98,7 +98,7 @@
   2007-11-26, 2007-11-26
   atomdate: 2007-11-26T15:21:00+01:00
   author: evilchelu
-  categories: blog
+  categories: blog, planning
 
 # wurbe #4 - topics
   2007-12-09, 2007-12-09
@@ -116,7 +116,7 @@
   2008-01-07, 2008-01-07
   atomdate: 2008-01-07T16:21:00+01:00
   author: evilchelu
-  categories: blog
+  categories: blog, planning
 
 # wurbe #5 - locatie si organizare
   2008-01-11, 2008-01-11
@@ -140,7 +140,7 @@
   2008-02-11, 2008-02-11
   atomdate: 2008-02-11T12:01:00+01:00
   author: evilchelu
-  categories: blog
+  categories: blog, planning
 
 # wurbe #6
   2008-02-28, 2008-02-28
@@ -152,7 +152,7 @@
   2008-02-28, 2008-02-28
   atomdate: 2008-02-28T14:00:00+01:00
   author: evilchelu
-  categories: blog
+  categories: blog, planning
 
 # wurbe #7 - inscrieri si prezentari
   2008-03-05, 2008-03-05
@@ -176,7 +176,7 @@
   2008-04-08, 2008-04-08
   atomdate: 2008-04-08T17:35:00+02:00
   author: xhr
-  categories: blog
+  categories: blog, planning
 
 # wurbe #8
   2008-04-17, 2008-04-17
@@ -188,7 +188,7 @@
   2008-05-06, 2008-05-06
   atomdate: 2008-05-06T21:22:00+02:00
   author: vio
-  categories: blog
+  categories: blog, planning
 
 # wurbe #10 - la meci!
   2008-05-28, 2008-05-28
@@ -213,7 +213,7 @@
   atomdate: 2008-06-09T10:08:00+02:00
   slug: wurbe-10-allez-les-partea-a-2-a
   author: vio
-  categories: blog
+  categories: blog, planning
 
 # wurbe #10
   2008-06-30, 2008-06-30
@@ -225,7 +225,7 @@
   2008-07-10, 2008-07-10
   atomdate: 2008-07-10T10:36:00+02:00
   author: evilchelu
-  categories: blog
+  categories: blog, planning
 
 # wurbe #11
   2008-08-05, 2008-08-05
@@ -237,7 +237,7 @@
   2008-08-05, 2008-08-05
   atomdate: 2008-08-05T20:29:00+02:00
   author: vio
-  categories: blog
+  categories: blog, planning
 
 # wurbe #12
   2008-09-02, 2008-09-02
@@ -249,7 +249,7 @@
   2008-09-02, 2008-09-02
   atomdate: 2008-09-02T22:31:00+02:00
   author: vio
-  categories: blog
+  categories: blog, planning
 
 # wurbe #13
   2008-09-16, 2008-09-16
@@ -261,7 +261,7 @@
   2008-09-16, 2008-09-16
   atomdate: 2008-09-16T12:01:00+02:00
   author: evilchelu
-  categories: blog
+  categories: blog, planning
 
 # wurbe #14 - program
   2008-10-02, 2008-10-02
@@ -285,7 +285,7 @@
   2008-11-18, 2008-11-18
   atomdate: 2008-11-18T21:44:00+01:00
   author: vio
-  categories: blog
+  categories: blog, planning
 
 # wurbe #15
   2008-11-27, 2008-11-27
@@ -297,7 +297,7 @@
   2008-12-13, 2008-12-13
   atomdate: 2008-12-13T00:31:00+01:00
   author: zmack
-  categories: blog
+  categories: blog, planning
 
 # wurbe #16
   2008-12-23, 2008-12-23
@@ -309,7 +309,7 @@
   2009-01-16, 2009-01-16
   atomdate: 2009-01-16T00:46:00+01:00
   author: xhr
-  categories: blog
+  categories: blog, planning
 
 # wurbe #17
   2009-02-02, 2009-02-02
@@ -321,7 +321,7 @@
   2009-02-10, 2009-02-10
   atomdate: 2009-02-10T20:20:30+01:00
   author: Cristi Balan
-  categories: blog
+  categories: blog, planning
 
 # wurbe #18 - program
   2009-03-02, 2009-03-02
@@ -339,7 +339,7 @@
   2009-03-19, 2009-03-19
   atomdate: 2009-03-19T18:20:30+02:00
   author: Cristi Balan
-  categories: blog
+  categories: blog, planning
 
 # wurbe #19
   2009-04-13, 2009-04-13
@@ -351,7 +351,7 @@
   2009-04-26, 2009-04-26
   atomdate: 2009-04-26T18:20:30+02:00
   author: Andrei Bocan
-  categories: blog
+  categories: blog, planning
 
 # wurbe #20
   2009-05-01, 2009-05-01
@@ -363,7 +363,7 @@
   2009-05-15, 2009-05-15
   atomdate: 2009-05-15T16:30:30+02:00
   author: Andrei Maxim
-  categories: blog
+  categories: blog, planning
 
 # wurbe #21
   2009-05-27, 2009-05-27
@@ -375,7 +375,7 @@
   2009-06-11, 2009-06-11
   atomdate: 2009-06-11T17:30:30+03:00
   author: Andrei Bocan
-  categories: blog
+  categories: blog, planning
 
 # wurbe #22 - organizare
   2009-06-30, 2009-06-30
@@ -405,7 +405,7 @@
   2009-08-12, 2009-08-12
   atomdate: 2009-08-12T15:50:22+02:00
   author: Andrei Bocan
-  categories: blog
+  categories: blog, planning
 
 # wurbe #23
   2009-09-16, 2009-09-16
@@ -417,7 +417,7 @@
   2009-09-16, 2009-09-16
   atomdate: 2009-09-16T17:08:00+03:00
   author: Cristi Balan
-  categories: blog
+  categories: blog, planning
 
 # rails bugmash 2
   2009-09-23, 2009-09-23
@@ -435,7 +435,7 @@
   2009-09-23, 2009-09-23
   atomdate: 2009-09-23T23:21:43+03:00
   author: Cristi Balan
-  categories: blog
+  categories: blog, planning
 
 # wurbe #25 - program
   2009-10-25, 2009-10-25
@@ -453,7 +453,7 @@
   2009-11-20, 2009-11-20
   atomdate: 2009-11-20T11:08:00+03:00
   author: Andrei Maxim
-  categories: blog
+  categories: blog, planning
 
 # wurbe #26
   2009-12-11, 2009-12-11
@@ -465,7 +465,7 @@
   2009-12-11, 2009-12-11
   atomdate: 2009-12-11T17:00:00+03:00
   author: Andrei Maxim
-  categories: blog
+  categories: blog, planning
 
 # wurbe #27
   2010-01-20, 2010-01-20
@@ -477,7 +477,7 @@
   2010-01-22, 2010-01-22
   atomdate: 2010-01-22T12:30:00+03:00
   author: Andrei Maxim
-  categories: blog
+  categories: blog, planning
 
 # wurbe #28
   2010-02-21, 2010-02-21
@@ -489,7 +489,7 @@
   2010-02-23, 2010-02-23
   atomdate: 2010-02-23T11:30:00+03:00
   author: Andrei Maxim
-  categories: blog
+  categories: blog, planning
 
 # wurbe #29
   2010-03-30, 2010-03-30
@@ -501,7 +501,7 @@
   2010-03-30, 2010-03-30
   atomdate: 2010-03-30T20:38:00+02:00
   author: Andrei Maxim
-  categories: blog
+  categories: blog, planning
 
 # wurbe #30
   2010-04-25, 2010-04-25
@@ -513,7 +513,7 @@
   2010-04-26, 2010-04-26
   atomdate: 2010-04-26T20:50:22+02:00
   author: Viorel Cojocaru
-  categories: blog
+  categories: blog, planning
 
 # wurbe #31
   2010-05-18, 2010-05-18
@@ -525,7 +525,7 @@
   2010-05-25, 2010-05-25
   atomdate: 2010-05-25T19:05:44+03:00
   author: Andrei Bocan
-  categories: blog
+  categories: blog, planning
 
 # wurbe #32
   2010-06-29, 2010-06-29
@@ -537,7 +537,7 @@
   2010-08-02, 2010-08-02
   atomdate: 2010-08-02T10:00:00+03:00
   author: Viorel Cojocaru
-  categories: blog
+  categories: blog, planning
 
 # wurbe #33
   2010-09-28, 2010-09-28
@@ -549,7 +549,7 @@
   2010-09-28, 2010-09-28
   atomdate: 2010-09-28T19:09:20+03:00
   author: Andrei Bocan
-  categories: blog
+  categories: blog, planning
 
 # wurbe #34
   2010-10-11, 2010-10-11
@@ -562,13 +562,13 @@
   atomdate: 2010-10-12T00:09:20+03:00
   slug: wurbe-35-next-generation
   author: Andrei Maxim
-  categories: blog
+  categories: blog, planning
 
 # wurbe #36 - call for papers
   2010-10-13, 2010-10-13
   atomdate: 2010-10-13T20:20:30+01:00
   author: Andrei Maxim
-  categories: blog
+  categories: blog, planning
 
 # wurbe #35
   2010-11-15, 2010-11-15
@@ -592,7 +592,7 @@
   2010-12-08, 2010-12-08
   atomdate: 2010-12-08T20:21:30+02:00
   author: Andrei Bocan
-  categories: blog
+  categories: blog, planning
 
 # wurbe #37
   2011-01-20, 2011-01-20
@@ -604,28 +604,28 @@
   2011-01-21, 2011-01-21
   atomdate: 2011-01-20T23:18:38Z
   author: Andrei Bocan
-  categories: blog
+  categories: blog, planning
 
 # wurbe #39 - agile
   2011-02-21, 2011-02-21
   atomdate: 2011-02-21T17:56:04Z
   author: Andrei Bocan
-  categories: blog
+  categories: blog, planning
 
 # wurbe #40 - webscale
   2011-03-22, 2011-03-22
   atomdate: 2011-03-22T17:42:01Z
   author: Andrei Maxim
-  categories: blog
+  categories: blog, planning
 
-# wurbe 40 redux
+# wurbe #40 redux
   2011-04-18, 2011-04-18
   atomdate: 2011-04-18T07:33:29Z
   author: Andrei Maxim
-  categories: blog
+  categories: blog, planning
 
 # wurbe #41 - radacini
   2011-05-20, 2011-05-20
   atomdate: 2011-05-20T11:58:42Z
   author: Andrei Bocan
-  categories: blog
+  categories: blog, planning
