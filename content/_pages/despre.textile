@@ -16,13 +16,13 @@ Speram ca acest site sa fie un efort al comunitatii. Oricine are ceva de oferit 
 
 De partea administrativa and stuff se ocupa:
 
-* Cristi Balan, evil@che.lu, 0723 678 146 - dns, email, website, organizare
-* Viorel Cojocaru, viorel@beanon.com, 0723 622 836 - organizare
+* Cristi Balan, evil@che.lu, 0723 678 146
+* Andrei Bocan, zmaxor@gmail.com, 0724 655 855
 
 h2. Cum poti ajuta?
 
 Cel mai important, vino la intalniri :). Daca nu poti, scrie despre noi, povesteste prietenilor pasionati, propune o locatie pentru urmatoarea intalnire, invata-ne ceva nou.
 
-Acest site foloseste "fluffy_barbarian":http://github.com/evilchelu/fluffy_barbarian iar sursa este pe "github":http://github.com/evilchelu/wurbe.ro. Patches welcome!
+Acest site foloseste "fluffy_barbarian":http://github.com/evilchelu/fluffy_barbarian iar sursa este pe "github":http://github.com/wurbe/wurbe.ro.legacy. Patches welcome!
 
 Daca ai orice alta idee, te rugam sa ne lasi un comentariu sau sa ne dai un email.

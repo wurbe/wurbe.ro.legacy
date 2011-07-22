@@ -635,3 +635,9 @@
   atomdate: 2011-06-16T16:25:36Z
   author: Cristi Balan
   categories: blog, planning
+
+# wurbe #43 - aproape mare
+  2011-07-22, 2011-07-22
+  atomdate: 2011-07-22T08:41:33Z
+  author: Cristi Balan
+  categories: blog, planning
