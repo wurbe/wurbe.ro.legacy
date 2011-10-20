@@ -10,6 +10,8 @@ h2. Cum?
 
 Folosim acest site pentru a planifica locatii si ore de intalnire si de a aduna posibile idei pentru activitati noi. Organizam intalniri la bere sau mici prezentari lunar, dar si workshop-uri sau miniconferinte stil barcamp din cand in cand.
 
+Daca vrei sa interactionezi live cu noi, suntem activi si pe irc, canalul "#wurbe pe irc.freenode.net":irc://irc.freenode.net/#wurbe.
+
 h2. Cine?
 
 Speram ca acest site sa fie un efort al comunitatii. Oricine are ceva de oferit sau propus este incurajat sa contribuie.
