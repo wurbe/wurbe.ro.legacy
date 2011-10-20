@@ -655,7 +655,7 @@
   categories: blog, planning
 
 # wurbe #46 - improv
-  2011-09-21, 2011-10-14
+  2011-10-14, 2011-10-14
   atomdate: 2011-10-14T20:16:23Z
   author: Alex Morega
   categories: blog, planning
