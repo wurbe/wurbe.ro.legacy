@@ -659,3 +659,9 @@
   atomdate: 2011-10-14T20:16:23Z
   author: Alex Morega
   categories: blog, planning
+
+# wurbe #47 - hat trick
+  2011-11-08, 2011-11-08
+  atomdate: 2011-11-08T14:34:21Z
+  author: Cristi Balan
+  categories: blog, planning
