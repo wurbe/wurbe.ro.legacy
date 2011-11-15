@@ -665,3 +665,9 @@
   atomdate: 2011-11-08T14:34:21Z
   author: Cristi Balan
   categories: blog, planning
+
+# wurbe #47 stream
+  2011-11-15, 2011-11-15
+  atomdate: 2011-11-15T17:18:44Z
+  author: Andrei Bocan
+  categories: blog

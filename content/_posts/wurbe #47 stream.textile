@@ -1,0 +1,1 @@
+<script type="text/javascript" src="http://ivm.inin.ro/js/embed_live.js?chan=wurbe&width=480&height=360&wide=true&autoplay=1"></script>
