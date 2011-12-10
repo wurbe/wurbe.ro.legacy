@@ -671,3 +671,9 @@
   atomdate: 2011-11-15T17:18:44Z
   author: Andrei Bocan
   categories: blog
+
+# wurbe #48 - colectia de iarna
+  2011-12-10, 2011-12-10
+  atomdate: 2011-12-10T09:31:24Z
+  author: Andrei Bocan
+  categories: blog, planning
