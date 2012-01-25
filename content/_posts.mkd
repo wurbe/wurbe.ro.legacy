@@ -677,3 +677,9 @@
   atomdate: 2011-12-10T09:31:24Z
   author: Andrei Bocan
   categories: blog, planning
+
+# wurbe #49 - la primavara
+  2012-01-25, 2012-01-25
+  atomdate: 2012-01-25T19:17:56Z
+  author: Alex Morega
+  categories: blog, planning
