@@ -689,3 +689,9 @@
   atomdate: 2012-02-26T16:42:26Z
   author: Andrei Bocan
   categories: blog, planning
+
+# wurbe #51 - care este
+  2012-03-14, 2012-03-14
+  atomdate: 2012-03-13T22:34:57Z
+  author: Alex Morega
+  categories: blog, planning
