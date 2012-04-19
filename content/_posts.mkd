@@ -695,3 +695,9 @@
   atomdate: 2012-03-13T22:34:57Z
   author: Alex Morega
   categories: blog, planning
+
+# wurbe #52 - comic book edition
+  2012-04-19, 2012-04-19
+  atomdate: 2012-04-19T06:52:36Z
+  author: Alex Morega
+  categories: blog, planning
