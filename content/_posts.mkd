@@ -701,3 +701,9 @@
   atomdate: 2012-04-19T06:52:36Z
   author: Alex Morega
   categories: blog, planning
+
+# wurbe #53 - vara plina de sperante
+  2012-05-21, 2012-05-21
+  atomdate: 2012-05-21T14:19:50Z
+  author: Cristi Balan
+  categories: blog, planning
