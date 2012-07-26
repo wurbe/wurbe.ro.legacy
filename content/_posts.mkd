@@ -713,3 +713,9 @@
   atomdate: 2012-06-27T06:06:11Z
   author: Cristi Balan
   categories: blog, planning
+
+# wurbe #55 - din scurt
+  2012-07-26, 2012-07-26
+  atomdate: 2012-07-26T15:16:09Z
+  author: Cristi Balan
+  categories: blog, planning
