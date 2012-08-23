@@ -719,3 +719,9 @@
   atomdate: 2012-07-26T15:16:09Z
   author: Cristi Balan
   categories: blog, planning
+
+# wurbe #56 - uite vara, nu e vara
+  2012-08-23, 2012-08-23
+  atomdate: 2012-08-23T14:05:01Z
+  author: Cristi Balan
+  categories: blog, planning
