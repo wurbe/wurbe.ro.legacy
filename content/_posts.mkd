@@ -730,4 +730,4 @@
   2012-09-27, 2012-09-27
   atomdate: 2012-09-26T21:56:46Z
   author: Cristi Balan
-  categories: blog
+  categories: blog, planning
