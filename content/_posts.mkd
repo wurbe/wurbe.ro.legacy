@@ -731,3 +731,9 @@
   atomdate: 2012-09-26T21:56:46Z
   author: Cristi Balan
   categories: blog, planning
+
+# wurbe #58 - relocare
+  2012-10-25, 2012-10-25
+  atomdate: 2012-10-25T18:53:50Z
+  author: Alex Morega
+  categories: blog, planning
