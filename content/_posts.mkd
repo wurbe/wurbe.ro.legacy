@@ -737,3 +737,9 @@
   atomdate: 2012-10-25T18:53:50Z
   author: Alex Morega
   categories: blog, planning
+
+# wurbe #59 - beer thursday
+  2012-11-23, 2012-11-23
+  atomdate: 2012-11-23T19:42:03Z
+  author: Andrei Bocan
+  categories: blog, planning
