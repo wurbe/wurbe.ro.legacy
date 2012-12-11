@@ -748,4 +748,4 @@
   2012-12-11, 2012-12-11
   atomdate: 2012-12-11T09:26:45Z
   author: Alex Morega
-  categories: blog
+  categories: blog, planning
